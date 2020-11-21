@@ -3,10 +3,10 @@ import numpy as np
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 from matplotlib import cm
 
-
 class BodyMap:
     def __init__(self):
-        self.body_sil = plt.imread('/MediPlot/Body_Sil.png')
+        im_link = 'https://raw.githubusercontent.com/MuteJester/MediPlot/master/MediPlot/Body_Sil.png'
+        self.body_sil = plt.imread(im_link)
         self.bmap = {'head': self.set_head, 'legs': self.set_legs, 'les': self.set_right_leg,
                      'left leg': self.set_left_leg, 'right leg': self.set_right_leg, 'right arm': self.set_right_arm,
                      'left arm': self.set_left_arm, 'torso': self.set_torso, 'arms': self.set_arms,
