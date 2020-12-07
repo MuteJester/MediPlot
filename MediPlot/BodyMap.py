@@ -6,17 +6,22 @@ from matplotlib import cm
 class BodyMap:
     def __init__(self):
         im_link = 'https://raw.githubusercontent.com/MuteJester/MediPlot/master/MediPlot/Body_Sil.png'
-        self.body_sil = plt.imread(im_link)
+        self.body_sil = plt.imread(im_link,0)
         self.bmap = {'head': self.set_head, 'legs': self.set_legs, 'les': self.set_right_leg,
                      'left leg': self.set_left_leg, 'right leg': self.set_right_leg, 'right arm': self.set_right_arm,
                      'left arm': self.set_left_arm, 'torso': self.set_torso, 'arms': self.set_arms,
                      'waist': self.set_waist,
                      'neck': self.set_neck, 'left hand': self.set_left_hand, 'right hand': self.set_right_hand,
-                     'left foot': self.set_left_foot, 'right foot': self.set_right_foot}
+                     'left foot': self.set_left_foot, 'right foot': self.set_right_foot,
+                     'upper right arm':self.set_upper_right_arm,'upper left arm':self.set_upper_left_arm,
+                     'right forearm':self.set_right_forearm,'left forearm':self.set_left_forearm,
+                     'right thigh':self.set_right_thigh,'left thigh':self.set_left_thigh,
+                     'right lower leg':self.set_right_lower_leg,'left lower leg':self.set_left_lower_leg}
 
     def list_of_targets(self):
         return ['head', 'legs', 'right leg', 'left leg', 'right arm', 'left arm', 'torso', 'arms', 'waist', 'neck',
-                'left hand', 'right hand']
+                'left hand', 'right hand','upper right arm','upper left arm','right forearm','left forearm',
+                'right thigh','left thigh','right lower leg','left lower leg']
 
     def set_head(self, value):
         head = self.body_sil[0:270, 300:580]
@@ -78,6 +83,39 @@ class BodyMap:
         right_foot = self.body_sil[2195:2289, 540:690]
         self.body_sil[2195:2289, 540:690] = np.where(right_foot == [1, 1, 1], right_foot, value)
 
+    def set_upper_right_arm(self,value):
+        right_arm = self.body_sil[870:1200, 682:1110]
+        self.body_sil[385:810, 640:1110] = np.where(self.body_sil[385:810, 640:1110] == [1, 1, 1],
+                                                    self.body_sil[385:810, 640:1110], value)
+    def set_upper_left_arm(self,value):
+        self.body_sil[380:800, 0:265] = np.where(self.body_sil[380:800, 0:265] == [1, 1, 1],
+                                                  self.body_sil[380:800, 0:265], value)
+
+    def set_right_forearm(self,value):
+        right_arm = self.body_sil[870:1150, 682:1299]
+        self.body_sil[870:1150, 682:1299] = np.where(right_arm == [1, 1, 1], right_arm, value)
+        right_arm = self.body_sil[870:950, 642:1299]
+        self.body_sil[870:950, 642:1299] = np.where(right_arm == [1, 1, 1], right_arm, value)
+    def set_left_forearm(self,value):
+        right_arm = self.body_sil[830:1110, 0:245]
+        self.body_sil[830:1110, 0:245] = np.where(right_arm == [1, 1, 1], right_arm, value)
+
+
+    def set_right_thigh(self,value):
+        left_leg = self.body_sil[1270:1620, 455:685]
+        self.body_sil[1270:1620, 455:685] = np.where(left_leg == [1, 1, 1], left_leg, value)
+    def set_left_thigh(self, value):
+        right_leg = self.body_sil[1270:1620, 230:455]
+        self.body_sil[1270:1620, 230:455] = np.where(right_leg == [1, 1, 1], right_leg, value)
+
+    def set_right_lower_leg(self, value):
+        left_leg = self.body_sil[1720:2150, 455:685]
+        self.body_sil[1720:2150, 455:685] = np.where(left_leg == [1, 1, 1], left_leg, value)
+
+    def set_left_lower_leg(self, value):
+        right_leg = self.body_sil[1720:2150, 230:455]
+        self.body_sil[1720:2150, 230:455] = np.where(right_leg == [1, 1, 1], right_leg, value)
+
     def generate(self, areas, values, figsize=(9, 15), cmap='coolwarm', background='white'):
         self.f, self.ax = plt.subplots(figsize=figsize)
         self.ax.axis('off')
@@ -95,4 +133,5 @@ class BodyMap:
         self.f.colorbar(x, cax=cax, orientation='vertical')
 
         return self.ax
+
 

@@ -8,7 +8,7 @@ setup(
   author = 'Thomas Konstantinovsky',
   author_email = 'thomaskon90@gmail.com',
   url = 'https://github.com/MuteJester/MediPlot',
-  download_url = 'https://github.com/MuteJester/MediPlot/archive/v0_1.1.tar.gz', 
+  download_url = 'https://github.com/MuteJester/MediPlot/archive/v_0.1.2.tar.gz',
   keywords = ['datascience', 'data visualization', 'matplotlib'],
   install_requires=[
           'matplotlib',
@@ -18,7 +18,7 @@ setup(
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
-    'Topic :: Software Development :: Build Tools',
+    'Topic :: Scientific/Engineering :: Visualization',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3.6',
   ],
