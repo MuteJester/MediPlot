@@ -1,0 +1,547 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "liver_veins_anterior",
+  "display_name": "Liver Vasculature (Anterior View)",
+  "description": "Head and neck anatomy with labeled structures (anterior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "anterior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.893,
+        "y": 0.135
+      },
+      {
+        "x": 0.909,
+        "y": 0.644
+      },
+      {
+        "x": 0.77,
+        "y": 0.786
+      },
+      {
+        "x": 0.635,
+        "y": 0.871
+      },
+      {
+        "x": 0.631,
+        "y": 0.871
+      },
+      {
+        "x": 0.593,
+        "y": 0.873
+      },
+      {
+        "x": 0.31,
+        "y": 0.827
+      },
+      {
+        "x": 0.3,
+        "y": 0.823
+      },
+      {
+        "x": 0.103,
+        "y": 0.729
+      },
+      {
+        "x": 0.094,
+        "y": 0.722
+      },
+      {
+        "x": 0.091,
+        "y": 0.703
+      },
+      {
+        "x": 0.095,
+        "y": 0.693
+      },
+      {
+        "x": 0.109,
+        "y": 0.677
+      },
+      {
+        "x": 0.279,
+        "y": 0.546
+      },
+      {
+        "x": 0.752,
+        "y": 0.188
+      },
+      {
+        "x": 0.802,
+        "y": 0.162
+      },
+      {
+        "x": 0.871,
+        "y": 0.129
+      },
+      {
+        "x": 0.879,
+        "y": 0.127
+      },
+      {
+        "x": 0.887,
+        "y": 0.128
+      }
+    ]
+  },
+  "regions": {
+    "intermediate_hepatic_vein": {
+      "display_name": "Intermediate Hepatic Vein",
+      "anatomical_name": "Intermediate Hepatic Vein",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.352,
+            "y": 0.817
+          },
+          {
+            "x": 0.347,
+            "y": 0.808
+          },
+          {
+            "x": 0.346,
+            "y": 0.801
+          },
+          {
+            "x": 0.344,
+            "y": 0.767
+          },
+          {
+            "x": 0.361,
+            "y": 0.734
+          },
+          {
+            "x": 0.777,
+            "y": 0.317
+          },
+          {
+            "x": 0.788,
+            "y": 0.313
+          },
+          {
+            "x": 0.797,
+            "y": 0.315
+          },
+          {
+            "x": 0.801,
+            "y": 0.319
+          },
+          {
+            "x": 0.791,
+            "y": 0.576
+          },
+          {
+            "x": 0.788,
+            "y": 0.588
+          },
+          {
+            "x": 0.683,
+            "y": 0.694
+          },
+          {
+            "x": 0.384,
+            "y": 0.821
+          },
+          {
+            "x": 0.371,
+            "y": 0.824
+          },
+          {
+            "x": 0.357,
+            "y": 0.82
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.552,
+        "y": 0.634
+      },
+      "z_order": 5,
+      "groups": [
+        "Liver Veins and Branches"
+      ],
+      "default_color": "rgb(230,128,128)"
+    },
+    "left_hepatic_vein": {
+      "display_name": "Left Hepatic Vein",
+      "anatomical_name": "Left Hepatic Vein",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.242,
+            "y": 0.646
+          },
+          {
+            "x": 0.257,
+            "y": 0.629
+          },
+          {
+            "x": 0.277,
+            "y": 0.626
+          },
+          {
+            "x": 0.467,
+            "y": 0.675
+          },
+          {
+            "x": 0.481,
+            "y": 0.688
+          },
+          {
+            "x": 0.478,
+            "y": 0.701
+          },
+          {
+            "x": 0.464,
+            "y": 0.721
+          },
+          {
+            "x": 0.329,
+            "y": 0.823
+          },
+          {
+            "x": 0.31,
+            "y": 0.827
+          },
+          {
+            "x": 0.3,
+            "y": 0.823
+          },
+          {
+            "x": 0.292,
+            "y": 0.813
+          },
+          {
+            "x": 0.235,
+            "y": 0.706
+          },
+          {
+            "x": 0.233,
+            "y": 0.694
+          },
+          {
+            "x": 0.24,
+            "y": 0.65
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.329,
+        "y": 0.716
+      },
+      "z_order": 5,
+      "groups": [
+        "Liver Veins and Branches"
+      ],
+      "default_color": "rgb(102,179,255)"
+    },
+    "caudate_veins": {
+      "display_name": "Caudate Veins",
+      "anatomical_name": "Caudate Veins",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.283,
+            "y": 0.545
+          },
+          {
+            "x": 0.294,
+            "y": 0.545
+          },
+          {
+            "x": 0.302,
+            "y": 0.553
+          },
+          {
+            "x": 0.356,
+            "y": 0.657
+          },
+          {
+            "x": 0.359,
+            "y": 0.68
+          },
+          {
+            "x": 0.351,
+            "y": 0.686
+          },
+          {
+            "x": 0.34,
+            "y": 0.688
+          },
+          {
+            "x": 0.331,
+            "y": 0.686
+          },
+          {
+            "x": 0.285,
+            "y": 0.63
+          },
+          {
+            "x": 0.264,
+            "y": 0.597
+          },
+          {
+            "x": 0.259,
+            "y": 0.586
+          },
+          {
+            "x": 0.261,
+            "y": 0.57
+          },
+          {
+            "x": 0.272,
+            "y": 0.553
+          },
+          {
+            "x": 0.279,
+            "y": 0.546
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.302,
+        "y": 0.609
+      },
+      "z_order": 5,
+      "groups": [
+        "Liver Veins and Branches"
+      ],
+      "default_color": "rgb(255,204,179)"
+    },
+    "right_branch_of_portal_vein": {
+      "display_name": "Right Branch Of Portal Vein",
+      "anatomical_name": "Right Branch Of Portal Vein",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.635,
+            "y": 0.871
+          },
+          {
+            "x": 0.77,
+            "y": 0.786
+          },
+          {
+            "x": 0.909,
+            "y": 0.644
+          },
+          {
+            "x": 0.893,
+            "y": 0.135
+          },
+          {
+            "x": 0.887,
+            "y": 0.128
+          },
+          {
+            "x": 0.879,
+            "y": 0.127
+          },
+          {
+            "x": 0.871,
+            "y": 0.129
+          },
+          {
+            "x": 0.752,
+            "y": 0.188
+          },
+          {
+            "x": 0.414,
+            "y": 0.515
+          },
+          {
+            "x": 0.379,
+            "y": 0.574
+          },
+          {
+            "x": 0.44,
+            "y": 0.703
+          },
+          {
+            "x": 0.583,
+            "y": 0.867
+          },
+          {
+            "x": 0.593,
+            "y": 0.873
+          },
+          {
+            "x": 0.631,
+            "y": 0.871
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.688,
+        "y": 0.529
+      },
+      "z_order": 5,
+      "groups": [
+        "Liver Veins and Branches"
+      ],
+      "default_color": "rgb(230,230,128)"
+    },
+    "left_branch_of_portal_vein": {
+      "display_name": "Left Branch Of Portal Vein",
+      "anatomical_name": "Left Branch Of Portal Vein",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.694,
+            "y": 0.584
+          },
+          {
+            "x": 0.697,
+            "y": 0.586
+          },
+          {
+            "x": 0.65,
+            "y": 0.677
+          },
+          {
+            "x": 0.596,
+            "y": 0.741
+          },
+          {
+            "x": 0.497,
+            "y": 0.765
+          },
+          {
+            "x": 0.365,
+            "y": 0.768
+          },
+          {
+            "x": 0.103,
+            "y": 0.729
+          },
+          {
+            "x": 0.094,
+            "y": 0.722
+          },
+          {
+            "x": 0.091,
+            "y": 0.703
+          },
+          {
+            "x": 0.095,
+            "y": 0.693
+          },
+          {
+            "x": 0.109,
+            "y": 0.677
+          },
+          {
+            "x": 0.158,
+            "y": 0.643
+          },
+          {
+            "x": 0.277,
+            "y": 0.585
+          },
+          {
+            "x": 0.428,
+            "y": 0.565
+          },
+          {
+            "x": 0.691,
+            "y": 0.583
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.37,
+        "y": 0.668
+      },
+      "z_order": 5,
+      "groups": [
+        "Liver Veins and Branches"
+      ],
+      "default_color": "rgb(128,230,230)"
+    },
+    "right_hepatic_vein": {
+      "display_name": "Right Hepatic Vein",
+      "anatomical_name": "Right Hepatic Vein",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.817,
+            "y": 0.163
+          },
+          {
+            "x": 0.824,
+            "y": 0.171
+          },
+          {
+            "x": 0.838,
+            "y": 0.258
+          },
+          {
+            "x": 0.814,
+            "y": 0.599
+          },
+          {
+            "x": 0.675,
+            "y": 0.799
+          },
+          {
+            "x": 0.663,
+            "y": 0.803
+          },
+          {
+            "x": 0.411,
+            "y": 0.812
+          },
+          {
+            "x": 0.397,
+            "y": 0.809
+          },
+          {
+            "x": 0.385,
+            "y": 0.798
+          },
+          {
+            "x": 0.37,
+            "y": 0.774
+          },
+          {
+            "x": 0.385,
+            "y": 0.744
+          },
+          {
+            "x": 0.795,
+            "y": 0.168
+          },
+          {
+            "x": 0.802,
+            "y": 0.162
+          },
+          {
+            "x": 0.813,
+            "y": 0.162
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.642,
+        "y": 0.516
+      },
+      "z_order": 5,
+      "groups": [
+        "Liver Veins and Branches"
+      ],
+      "default_color": "rgb(128,230,128)"
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_insula_superior",
+  "display_name": "Brain Insula (Superior View)",
+  "description": "Head and neck anatomy with labeled structures (superior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "superior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.249,
+        "y": 0.154
+      },
+      {
+        "x": 0.804,
+        "y": 0.274
+      },
+      {
+        "x": 0.879,
+        "y": 0.408
+      },
+      {
+        "x": 0.909,
+        "y": 0.639
+      },
+      {
+        "x": 0.896,
+        "y": 0.744
+      },
+      {
+        "x": 0.886,
+        "y": 0.781
+      },
+      {
+        "x": 0.852,
+        "y": 0.824
+      },
+      {
+        "x": 0.817,
+        "y": 0.846
+      },
+      {
+        "x": 0.173,
+        "y": 0.785
+      },
+      {
+        "x": 0.143,
+        "y": 0.772
+      },
+      {
+        "x": 0.124,
+        "y": 0.75
+      },
+      {
+        "x": 0.093,
+        "y": 0.659
+      },
+      {
+        "x": 0.091,
+        "y": 0.545
+      },
+      {
+        "x": 0.131,
+        "y": 0.395
+      },
+      {
+        "x": 0.191,
+        "y": 0.255
+      }
+    ]
+  },
+  "regions": {
+    "right_limen_insulae": {
+      "display_name": "Right Limen Insulae",
+      "anatomical_name": "Right Limen Insulae",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.758,
+            "y": 0.58
+          },
+          {
+            "x": 0.773,
+            "y": 0.581
+          },
+          {
+            "x": 0.84,
+            "y": 0.603
+          },
+          {
+            "x": 0.846,
+            "y": 0.646
+          },
+          {
+            "x": 0.839,
+            "y": 0.668
+          },
+          {
+            "x": 0.828,
+            "y": 0.681
+          },
+          {
+            "x": 0.781,
+            "y": 0.72
+          },
+          {
+            "x": 0.768,
+            "y": 0.727
+          },
+          {
+            "x": 0.645,
+            "y": 0.685
+          },
+          {
+            "x": 0.639,
+            "y": 0.68
+          },
+          {
+            "x": 0.628,
+            "y": 0.657
+          },
+          {
+            "x": 0.636,
+            "y": 0.612
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.748,
+        "y": 0.653
+      },
+      "z_order": 5,
+      "groups": [
+        "right insula"
+      ],
+      "default_color": "rgb(110,149,119)"
+    },
+    "right_insula": {
+      "display_name": "Right Insula",
+      "anatomical_name": "Right Insula",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.776,
+            "y": 0.305
+          },
+          {
+            "x": 0.804,
+            "y": 0.274
+          },
+          {
+            "x": 0.879,
+            "y": 0.408
+          },
+          {
+            "x": 0.909,
+            "y": 0.639
+          },
+          {
+            "x": 0.896,
+            "y": 0.744
+          },
+          {
+            "x": 0.886,
+            "y": 0.781
+          },
+          {
+            "x": 0.852,
+            "y": 0.824
+          },
+          {
+            "x": 0.817,
+            "y": 0.846
+          },
+          {
+            "x": 0.789,
+            "y": 0.841
+          },
+          {
+            "x": 0.708,
+            "y": 0.738
+          },
+          {
+            "x": 0.701,
+            "y": 0.69
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.82,
+        "y": 0.645
+      },
+      "z_order": 5,
+      "groups": [
+        "right insula"
+      ],
+      "default_color": "rgb(124,4,24)"
+    },
+    "left_insula": {
+      "display_name": "Left Insula",
+      "anatomical_name": "Left Insula",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.131,
+            "y": 0.395
+          },
+          {
+            "x": 0.091,
+            "y": 0.545
+          },
+          {
+            "x": 0.093,
+            "y": 0.659
+          },
+          {
+            "x": 0.124,
+            "y": 0.75
+          },
+          {
+            "x": 0.143,
+            "y": 0.772
+          },
+          {
+            "x": 0.173,
+            "y": 0.785
+          },
+          {
+            "x": 0.239,
+            "y": 0.764
+          },
+          {
+            "x": 0.252,
+            "y": 0.717
+          },
+          {
+            "x": 0.278,
+            "y": 0.208
+          },
+          {
+            "x": 0.264,
+            "y": 0.165
+          },
+          {
+            "x": 0.249,
+            "y": 0.154
+          },
+          {
+            "x": 0.191,
+            "y": 0.255
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.186,
+        "y": 0.514
+      },
+      "z_order": 5,
+      "groups": [
+        "left insula"
+      ],
+      "default_color": "rgb(124,4,24)"
+    },
+    "left_limen_insulae": {
+      "display_name": "Left Limen Insulae",
+      "anatomical_name": "Left Limen Insulae",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.301,
+            "y": 0.593
+          },
+          {
+            "x": 0.308,
+            "y": 0.622
+          },
+          {
+            "x": 0.284,
+            "y": 0.645
+          },
+          {
+            "x": 0.274,
+            "y": 0.647
+          },
+          {
+            "x": 0.175,
+            "y": 0.641
+          },
+          {
+            "x": 0.158,
+            "y": 0.622
+          },
+          {
+            "x": 0.154,
+            "y": 0.61
+          },
+          {
+            "x": 0.153,
+            "y": 0.601
+          },
+          {
+            "x": 0.176,
+            "y": 0.559
+          },
+          {
+            "x": 0.232,
+            "y": 0.508
+          },
+          {
+            "x": 0.241,
+            "y": 0.509
+          },
+          {
+            "x": 0.281,
+            "y": 0.533
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.228,
+        "y": 0.591
+      },
+      "z_order": 5,
+      "groups": [
+        "left insula"
+      ],
+      "default_color": "rgb(144,49,65)"
+    }
+  }
+}

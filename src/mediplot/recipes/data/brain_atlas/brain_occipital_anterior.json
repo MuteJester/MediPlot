@@ -1,0 +1,847 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_occipital_anterior",
+  "display_name": "Brain Occipital Lobes (Anterior View)",
+  "description": "Head and neck anatomy with labeled structures (anterior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "anterior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.094,
+        "y": 0.446
+      },
+      {
+        "x": 0.091,
+        "y": 0.37
+      },
+      {
+        "x": 0.092,
+        "y": 0.367
+      },
+      {
+        "x": 0.144,
+        "y": 0.323
+      },
+      {
+        "x": 0.223,
+        "y": 0.281
+      },
+      {
+        "x": 0.452,
+        "y": 0.281
+      },
+      {
+        "x": 0.495,
+        "y": 0.282
+      },
+      {
+        "x": 0.824,
+        "y": 0.307
+      },
+      {
+        "x": 0.855,
+        "y": 0.332
+      },
+      {
+        "x": 0.909,
+        "y": 0.452
+      },
+      {
+        "x": 0.909,
+        "y": 0.468
+      },
+      {
+        "x": 0.909,
+        "y": 0.478
+      },
+      {
+        "x": 0.681,
+        "y": 0.702
+      },
+      {
+        "x": 0.671,
+        "y": 0.709
+      },
+      {
+        "x": 0.359,
+        "y": 0.721
+      },
+      {
+        "x": 0.357,
+        "y": 0.72
+      }
+    ]
+  },
+  "regions": {
+    "right_cuneus": {
+      "display_name": "Right Cuneus",
+      "anatomical_name": "Right Cuneus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.634,
+            "y": 0.676
+          },
+          {
+            "x": 0.596,
+            "y": 0.698
+          },
+          {
+            "x": 0.541,
+            "y": 0.678
+          },
+          {
+            "x": 0.528,
+            "y": 0.666
+          },
+          {
+            "x": 0.489,
+            "y": 0.59
+          },
+          {
+            "x": 0.494,
+            "y": 0.514
+          },
+          {
+            "x": 0.564,
+            "y": 0.473
+          },
+          {
+            "x": 0.604,
+            "y": 0.457
+          },
+          {
+            "x": 0.611,
+            "y": 0.457
+          },
+          {
+            "x": 0.634,
+            "y": 0.473
+          },
+          {
+            "x": 0.65,
+            "y": 0.564
+          },
+          {
+            "x": 0.636,
+            "y": 0.672
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.582,
+        "y": 0.576
+      },
+      "z_order": 5,
+      "groups": [
+        "right occipital lobe"
+      ],
+      "default_color": "rgb(219,20,100)"
+    },
+    "left_parieto-occipital_sulcus": {
+      "display_name": "Left Parieto-Occipital Sulcus",
+      "anatomical_name": "Left Parieto-Occipital Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.359,
+            "y": 0.721
+          },
+          {
+            "x": 0.365,
+            "y": 0.718
+          },
+          {
+            "x": 0.4,
+            "y": 0.679
+          },
+          {
+            "x": 0.402,
+            "y": 0.671
+          },
+          {
+            "x": 0.402,
+            "y": 0.656
+          },
+          {
+            "x": 0.362,
+            "y": 0.534
+          },
+          {
+            "x": 0.355,
+            "y": 0.531
+          },
+          {
+            "x": 0.347,
+            "y": 0.532
+          },
+          {
+            "x": 0.329,
+            "y": 0.588
+          },
+          {
+            "x": 0.352,
+            "y": 0.714
+          },
+          {
+            "x": 0.357,
+            "y": 0.72
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.366,
+        "y": 0.642
+      },
+      "z_order": 5,
+      "groups": [
+        "left occipital lobe"
+      ],
+      "default_color": "rgb(170,255,255)"
+    },
+    "right_lingual_gyrus": {
+      "display_name": "Right Lingual Gyrus",
+      "anatomical_name": "Right Lingual Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.625,
+            "y": 0.558
+          },
+          {
+            "x": 0.656,
+            "y": 0.551
+          },
+          {
+            "x": 0.698,
+            "y": 0.527
+          },
+          {
+            "x": 0.703,
+            "y": 0.451
+          },
+          {
+            "x": 0.669,
+            "y": 0.361
+          },
+          {
+            "x": 0.596,
+            "y": 0.317
+          },
+          {
+            "x": 0.559,
+            "y": 0.31
+          },
+          {
+            "x": 0.513,
+            "y": 0.33
+          },
+          {
+            "x": 0.488,
+            "y": 0.392
+          },
+          {
+            "x": 0.483,
+            "y": 0.556
+          },
+          {
+            "x": 0.511,
+            "y": 0.561
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.591,
+        "y": 0.447
+      },
+      "z_order": 5,
+      "groups": [
+        "right occipital lobe"
+      ],
+      "default_color": "rgb(225,140,140)"
+    },
+    "left_cuneus": {
+      "display_name": "Left Cuneus",
+      "anatomical_name": "Left Cuneus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.514,
+            "y": 0.477
+          },
+          {
+            "x": 0.523,
+            "y": 0.496
+          },
+          {
+            "x": 0.524,
+            "y": 0.602
+          },
+          {
+            "x": 0.518,
+            "y": 0.625
+          },
+          {
+            "x": 0.479,
+            "y": 0.672
+          },
+          {
+            "x": 0.406,
+            "y": 0.665
+          },
+          {
+            "x": 0.403,
+            "y": 0.664
+          },
+          {
+            "x": 0.353,
+            "y": 0.574
+          },
+          {
+            "x": 0.354,
+            "y": 0.521
+          },
+          {
+            "x": 0.369,
+            "y": 0.498
+          },
+          {
+            "x": 0.375,
+            "y": 0.495
+          },
+          {
+            "x": 0.508,
+            "y": 0.474
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.444,
+        "y": 0.564
+      },
+      "z_order": 5,
+      "groups": [
+        "left occipital lobe"
+      ],
+      "default_color": "rgb(219,20,100)"
+    },
+    "left_visual_cortex": {
+      "display_name": "Left Visual Cortex",
+      "anatomical_name": "Left Visual Cortex",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.522,
+            "y": 0.444
+          },
+          {
+            "x": 0.523,
+            "y": 0.468
+          },
+          {
+            "x": 0.499,
+            "y": 0.54
+          },
+          {
+            "x": 0.494,
+            "y": 0.549
+          },
+          {
+            "x": 0.481,
+            "y": 0.56
+          },
+          {
+            "x": 0.314,
+            "y": 0.524
+          },
+          {
+            "x": 0.306,
+            "y": 0.512
+          },
+          {
+            "x": 0.312,
+            "y": 0.491
+          },
+          {
+            "x": 0.472,
+            "y": 0.352
+          },
+          {
+            "x": 0.476,
+            "y": 0.35
+          },
+          {
+            "x": 0.496,
+            "y": 0.351
+          },
+          {
+            "x": 0.505,
+            "y": 0.358
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.45,
+        "y": 0.458
+      },
+      "z_order": 5,
+      "groups": [
+        "left occipital lobe"
+      ],
+      "default_color": "rgb(119,100,59)"
+    },
+    "right_calcarine_sulcus": {
+      "display_name": "Right Calcarine Sulcus",
+      "anatomical_name": "Right Calcarine Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.603,
+            "y": 0.533
+          },
+          {
+            "x": 0.589,
+            "y": 0.535
+          },
+          {
+            "x": 0.584,
+            "y": 0.531
+          },
+          {
+            "x": 0.575,
+            "y": 0.473
+          },
+          {
+            "x": 0.58,
+            "y": 0.391
+          },
+          {
+            "x": 0.583,
+            "y": 0.388
+          },
+          {
+            "x": 0.59,
+            "y": 0.385
+          },
+          {
+            "x": 0.594,
+            "y": 0.385
+          },
+          {
+            "x": 0.688,
+            "y": 0.471
+          },
+          {
+            "x": 0.689,
+            "y": 0.477
+          },
+          {
+            "x": 0.687,
+            "y": 0.481
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.615,
+        "y": 0.459
+      },
+      "z_order": 5,
+      "groups": [
+        "right occipital lobe"
+      ],
+      "default_color": "rgb(56,202,214)"
+    },
+    "right_parieto-occipital_sulcus": {
+      "display_name": "Right Parieto-Occipital Sulcus",
+      "anatomical_name": "Right Parieto-Occipital Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.647,
+            "y": 0.665
+          },
+          {
+            "x": 0.659,
+            "y": 0.705
+          },
+          {
+            "x": 0.671,
+            "y": 0.709
+          },
+          {
+            "x": 0.681,
+            "y": 0.702
+          },
+          {
+            "x": 0.688,
+            "y": 0.692
+          },
+          {
+            "x": 0.708,
+            "y": 0.535
+          },
+          {
+            "x": 0.706,
+            "y": 0.526
+          },
+          {
+            "x": 0.7,
+            "y": 0.517
+          },
+          {
+            "x": 0.683,
+            "y": 0.508
+          },
+          {
+            "x": 0.645,
+            "y": 0.502
+          },
+          {
+            "x": 0.639,
+            "y": 0.516
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.675,
+        "y": 0.598
+      },
+      "z_order": 5,
+      "groups": [
+        "right occipital lobe"
+      ],
+      "default_color": "rgb(170,255,255)"
+    },
+    "left_calcarine_sulcus": {
+      "display_name": "Left Calcarine Sulcus",
+      "anatomical_name": "Left Calcarine Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.497,
+            "y": 0.349
+          },
+          {
+            "x": 0.495,
+            "y": 0.342
+          },
+          {
+            "x": 0.477,
+            "y": 0.347
+          },
+          {
+            "x": 0.302,
+            "y": 0.481
+          },
+          {
+            "x": 0.302,
+            "y": 0.487
+          },
+          {
+            "x": 0.307,
+            "y": 0.503
+          },
+          {
+            "x": 0.313,
+            "y": 0.509
+          },
+          {
+            "x": 0.324,
+            "y": 0.51
+          },
+          {
+            "x": 0.359,
+            "y": 0.498
+          },
+          {
+            "x": 0.416,
+            "y": 0.468
+          },
+          {
+            "x": 0.471,
+            "y": 0.4
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.388,
+        "y": 0.445
+      },
+      "z_order": 5,
+      "groups": [
+        "left occipital lobe"
+      ],
+      "default_color": "rgb(56,202,214)"
+    },
+    "right_visual_cortex": {
+      "display_name": "Right Visual Cortex",
+      "anatomical_name": "Right Visual Cortex",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.501,
+            "y": 0.577
+          },
+          {
+            "x": 0.511,
+            "y": 0.58
+          },
+          {
+            "x": 0.64,
+            "y": 0.558
+          },
+          {
+            "x": 0.678,
+            "y": 0.52
+          },
+          {
+            "x": 0.674,
+            "y": 0.487
+          },
+          {
+            "x": 0.65,
+            "y": 0.384
+          },
+          {
+            "x": 0.628,
+            "y": 0.347
+          },
+          {
+            "x": 0.596,
+            "y": 0.334
+          },
+          {
+            "x": 0.556,
+            "y": 0.365
+          },
+          {
+            "x": 0.503,
+            "y": 0.451
+          },
+          {
+            "x": 0.493,
+            "y": 0.511
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.585,
+        "y": 0.465
+      },
+      "z_order": 5,
+      "groups": [
+        "right occipital lobe"
+      ],
+      "default_color": "rgb(119,100,59)"
+    },
+    "left_lingual_gyrus": {
+      "display_name": "Left Lingual Gyrus",
+      "anatomical_name": "Left Lingual Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.482,
+            "y": 0.545
+          },
+          {
+            "x": 0.504,
+            "y": 0.518
+          },
+          {
+            "x": 0.53,
+            "y": 0.343
+          },
+          {
+            "x": 0.51,
+            "y": 0.288
+          },
+          {
+            "x": 0.495,
+            "y": 0.282
+          },
+          {
+            "x": 0.452,
+            "y": 0.281
+          },
+          {
+            "x": 0.336,
+            "y": 0.319
+          },
+          {
+            "x": 0.294,
+            "y": 0.362
+          },
+          {
+            "x": 0.259,
+            "y": 0.494
+          },
+          {
+            "x": 0.309,
+            "y": 0.533
+          },
+          {
+            "x": 0.341,
+            "y": 0.542
+          },
+          {
+            "x": 0.481,
+            "y": 0.546
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.416,
+        "y": 0.421
+      },
+      "z_order": 5,
+      "groups": [
+        "left occipital lobe"
+      ],
+      "default_color": "rgb(225,140,140)"
+    },
+    "left_lateral_occipital_gyrus": {
+      "display_name": "Left Lateral Occipital Gyrus",
+      "anatomical_name": "Left Lateral Occipital Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.092,
+            "y": 0.367
+          },
+          {
+            "x": 0.144,
+            "y": 0.323
+          },
+          {
+            "x": 0.223,
+            "y": 0.281
+          },
+          {
+            "x": 0.488,
+            "y": 0.284
+          },
+          {
+            "x": 0.522,
+            "y": 0.352
+          },
+          {
+            "x": 0.523,
+            "y": 0.437
+          },
+          {
+            "x": 0.515,
+            "y": 0.512
+          },
+          {
+            "x": 0.391,
+            "y": 0.62
+          },
+          {
+            "x": 0.36,
+            "y": 0.612
+          },
+          {
+            "x": 0.253,
+            "y": 0.565
+          },
+          {
+            "x": 0.094,
+            "y": 0.446
+          },
+          {
+            "x": 0.091,
+            "y": 0.37
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.308,
+        "y": 0.431
+      },
+      "z_order": 5,
+      "groups": [
+        "left occipital lobe"
+      ],
+      "default_color": "rgb(20,29,140)"
+    },
+    "right_lateral_occipital_gyrus": {
+      "display_name": "Right Lateral Occipital Gyrus",
+      "anatomical_name": "Right Lateral Occipital Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.909,
+            "y": 0.478
+          },
+          {
+            "x": 0.86,
+            "y": 0.513
+          },
+          {
+            "x": 0.646,
+            "y": 0.589
+          },
+          {
+            "x": 0.617,
+            "y": 0.59
+          },
+          {
+            "x": 0.596,
+            "y": 0.573
+          },
+          {
+            "x": 0.533,
+            "y": 0.399
+          },
+          {
+            "x": 0.586,
+            "y": 0.307
+          },
+          {
+            "x": 0.824,
+            "y": 0.307
+          },
+          {
+            "x": 0.855,
+            "y": 0.332
+          },
+          {
+            "x": 0.909,
+            "y": 0.452
+          },
+          {
+            "x": 0.909,
+            "y": 0.468
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.75,
+        "y": 0.455
+      },
+      "z_order": 5,
+      "groups": [
+        "right occipital lobe"
+      ],
+      "default_color": "rgb(20,29,140)"
+    }
+  }
+}

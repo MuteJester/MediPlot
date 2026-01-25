@@ -1,0 +1,1009 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_thalamus_superior",
+  "display_name": "Brain Thalamus (Superior View)",
+  "description": "Head and neck anatomy with labeled structures (superior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "superior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.785,
+        "y": 0.904
+      },
+      {
+        "x": 0.772,
+        "y": 0.909
+      },
+      {
+        "x": 0.225,
+        "y": 0.889
+      },
+      {
+        "x": 0.215,
+        "y": 0.886
+      },
+      {
+        "x": 0.215,
+        "y": 0.88
+      },
+      {
+        "x": 0.309,
+        "y": 0.213
+      },
+      {
+        "x": 0.32,
+        "y": 0.187
+      },
+      {
+        "x": 0.528,
+        "y": 0.091
+      },
+      {
+        "x": 0.728,
+        "y": 0.181
+      },
+      {
+        "x": 0.755,
+        "y": 0.214
+      },
+      {
+        "x": 0.766,
+        "y": 0.279
+      }
+    ]
+  },
+  "regions": {
+    "right_anterior_thalamic_nucleus": {
+      "display_name": "Right Anterior Thalamic Nucleus",
+      "anatomical_name": "Right Anterior Thalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.636,
+            "y": 0.341
+          },
+          {
+            "x": 0.634,
+            "y": 0.315
+          },
+          {
+            "x": 0.63,
+            "y": 0.31
+          },
+          {
+            "x": 0.622,
+            "y": 0.306
+          },
+          {
+            "x": 0.587,
+            "y": 0.318
+          },
+          {
+            "x": 0.55,
+            "y": 0.345
+          },
+          {
+            "x": 0.544,
+            "y": 0.353
+          },
+          {
+            "x": 0.535,
+            "y": 0.37
+          },
+          {
+            "x": 0.544,
+            "y": 0.403
+          },
+          {
+            "x": 0.549,
+            "y": 0.413
+          },
+          {
+            "x": 0.557,
+            "y": 0.414
+          },
+          {
+            "x": 0.566,
+            "y": 0.412
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.58,
+        "y": 0.358
+      },
+      "z_order": 5,
+      "groups": [
+        "right thalamus"
+      ],
+      "default_color": "rgb(255,24,130)"
+    },
+    "left_mammillothalamic_tract": {
+      "display_name": "Left Mammillothalamic Tract",
+      "anatomical_name": "Left Mammillothalamic Tract",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.478,
+            "y": 0.327
+          },
+          {
+            "x": 0.49,
+            "y": 0.321
+          },
+          {
+            "x": 0.499,
+            "y": 0.319
+          },
+          {
+            "x": 0.505,
+            "y": 0.321
+          },
+          {
+            "x": 0.512,
+            "y": 0.332
+          },
+          {
+            "x": 0.513,
+            "y": 0.353
+          },
+          {
+            "x": 0.512,
+            "y": 0.361
+          },
+          {
+            "x": 0.502,
+            "y": 0.369
+          },
+          {
+            "x": 0.498,
+            "y": 0.367
+          },
+          {
+            "x": 0.48,
+            "y": 0.347
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.499,
+        "y": 0.342
+      },
+      "z_order": 5,
+      "groups": [
+        "diencephalon"
+      ],
+      "default_color": "rgb(124,140,179)"
+    },
+    "right_optic_tract": {
+      "display_name": "Right Optic Tract",
+      "anatomical_name": "Right Optic Tract",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.333,
+            "y": 0.185
+          },
+          {
+            "x": 0.728,
+            "y": 0.181
+          },
+          {
+            "x": 0.755,
+            "y": 0.214
+          },
+          {
+            "x": 0.766,
+            "y": 0.279
+          },
+          {
+            "x": 0.755,
+            "y": 0.311
+          },
+          {
+            "x": 0.743,
+            "y": 0.335
+          },
+          {
+            "x": 0.729,
+            "y": 0.354
+          },
+          {
+            "x": 0.699,
+            "y": 0.38
+          },
+          {
+            "x": 0.585,
+            "y": 0.461
+          },
+          {
+            "x": 0.54,
+            "y": 0.461
+          },
+          {
+            "x": 0.333,
+            "y": 0.185
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.633,
+        "y": 0.304
+      },
+      "z_order": 5,
+      "groups": [
+        "diencephalon"
+      ],
+      "default_color": "rgb(156,170,107)"
+    },
+    "right_internal_medullary_lamina": {
+      "display_name": "Right Internal Medullary Lamina",
+      "anatomical_name": "Right Internal Medullary Lamina",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.545,
+            "y": 0.278
+          },
+          {
+            "x": 0.573,
+            "y": 0.203
+          },
+          {
+            "x": 0.594,
+            "y": 0.202
+          },
+          {
+            "x": 0.627,
+            "y": 0.237
+          },
+          {
+            "x": 0.636,
+            "y": 0.255
+          },
+          {
+            "x": 0.646,
+            "y": 0.305
+          },
+          {
+            "x": 0.646,
+            "y": 0.325
+          },
+          {
+            "x": 0.628,
+            "y": 0.377
+          },
+          {
+            "x": 0.597,
+            "y": 0.409
+          },
+          {
+            "x": 0.59,
+            "y": 0.412
+          },
+          {
+            "x": 0.572,
+            "y": 0.409
+          },
+          {
+            "x": 0.533,
+            "y": 0.351
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.599,
+        "y": 0.314
+      },
+      "z_order": 5,
+      "groups": [
+        "right thalamus"
+      ],
+      "default_color": "rgb(200,200,200)"
+    },
+    "right_optic_nerve": {
+      "display_name": "Right Optic Nerve",
+      "anatomical_name": "Right Optic Nerve",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.546,
+            "y": 0.568
+          },
+          {
+            "x": 0.746,
+            "y": 0.904
+          },
+          {
+            "x": 0.772,
+            "y": 0.909
+          },
+          {
+            "x": 0.785,
+            "y": 0.904
+          },
+          {
+            "x": 0.782,
+            "y": 0.857
+          },
+          {
+            "x": 0.755,
+            "y": 0.796
+          },
+          {
+            "x": 0.598,
+            "y": 0.555
+          },
+          {
+            "x": 0.585,
+            "y": 0.549
+          },
+          {
+            "x": 0.547,
+            "y": 0.55
+          },
+          {
+            "x": 0.543,
+            "y": 0.562
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.666,
+        "y": 0.716
+      },
+      "z_order": 5,
+      "groups": [
+        "diencephalon"
+      ],
+      "default_color": "rgb(216,219,84)"
+    },
+    "right_dorsomedial_thalamic_nucleus": {
+      "display_name": "Right Dorsomedial Thalamic Nucleus",
+      "anatomical_name": "Right Dorsomedial Thalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.542,
+            "y": 0.365
+          },
+          {
+            "x": 0.546,
+            "y": 0.366
+          },
+          {
+            "x": 0.561,
+            "y": 0.353
+          },
+          {
+            "x": 0.612,
+            "y": 0.295
+          },
+          {
+            "x": 0.619,
+            "y": 0.24
+          },
+          {
+            "x": 0.607,
+            "y": 0.228
+          },
+          {
+            "x": 0.57,
+            "y": 0.21
+          },
+          {
+            "x": 0.538,
+            "y": 0.238
+          },
+          {
+            "x": 0.533,
+            "y": 0.251
+          },
+          {
+            "x": 0.527,
+            "y": 0.325
+          },
+          {
+            "x": 0.533,
+            "y": 0.357
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.563,
+        "y": 0.294
+      },
+      "z_order": 5,
+      "groups": [
+        "right thalamus"
+      ],
+      "default_color": "rgb(59,189,130)"
+    },
+    "left_centromedian_thalamic_nucleus": {
+      "display_name": "Left Centromedian Thalamic Nucleus",
+      "anatomical_name": "Left Centromedian Thalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.466,
+            "y": 0.304
+          },
+          {
+            "x": 0.472,
+            "y": 0.3
+          },
+          {
+            "x": 0.472,
+            "y": 0.29
+          },
+          {
+            "x": 0.462,
+            "y": 0.221
+          },
+          {
+            "x": 0.459,
+            "y": 0.213
+          },
+          {
+            "x": 0.422,
+            "y": 0.174
+          },
+          {
+            "x": 0.416,
+            "y": 0.182
+          },
+          {
+            "x": 0.415,
+            "y": 0.192
+          },
+          {
+            "x": 0.416,
+            "y": 0.214
+          },
+          {
+            "x": 0.422,
+            "y": 0.25
+          },
+          {
+            "x": 0.451,
+            "y": 0.299
+          },
+          {
+            "x": 0.462,
+            "y": 0.305
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.444,
+        "y": 0.245
+      },
+      "z_order": 5,
+      "groups": [
+        "left thalamus"
+      ],
+      "default_color": "rgb(189,179,105)"
+    },
+    "left_optic_tract": {
+      "display_name": "Left Optic Tract",
+      "anatomical_name": "Left Optic Tract",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.732,
+            "y": 0.311
+          },
+          {
+            "x": 0.497,
+            "y": 0.46
+          },
+          {
+            "x": 0.489,
+            "y": 0.462
+          },
+          {
+            "x": 0.464,
+            "y": 0.462
+          },
+          {
+            "x": 0.453,
+            "y": 0.461
+          },
+          {
+            "x": 0.334,
+            "y": 0.356
+          },
+          {
+            "x": 0.329,
+            "y": 0.35
+          },
+          {
+            "x": 0.301,
+            "y": 0.273
+          },
+          {
+            "x": 0.309,
+            "y": 0.213
+          },
+          {
+            "x": 0.32,
+            "y": 0.187
+          },
+          {
+            "x": 0.342,
+            "y": 0.181
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.415,
+        "y": 0.338
+      },
+      "z_order": 5,
+      "groups": [
+        "diencephalon"
+      ],
+      "default_color": "rgb(156,170,107)"
+    },
+    "right_mammillothalamic_tract": {
+      "display_name": "Right Mammillothalamic Tract",
+      "anatomical_name": "Right Mammillothalamic Tract",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.542,
+            "y": 0.365
+          },
+          {
+            "x": 0.558,
+            "y": 0.34
+          },
+          {
+            "x": 0.558,
+            "y": 0.329
+          },
+          {
+            "x": 0.552,
+            "y": 0.315
+          },
+          {
+            "x": 0.55,
+            "y": 0.314
+          },
+          {
+            "x": 0.513,
+            "y": 0.353
+          },
+          {
+            "x": 0.512,
+            "y": 0.357
+          },
+          {
+            "x": 0.512,
+            "y": 0.361
+          },
+          {
+            "x": 0.53,
+            "y": 0.368
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.536,
+        "y": 0.345
+      },
+      "z_order": 5,
+      "groups": [
+        "diencephalon"
+      ],
+      "default_color": "rgb(0,49,130)"
+    },
+    "right_centromedian_thalamic_nucleus": {
+      "display_name": "Right Centromedian Thalamic Nucleus",
+      "anatomical_name": "Right Centromedian Thalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.66,
+            "y": 0.196
+          },
+          {
+            "x": 0.663,
+            "y": 0.199
+          },
+          {
+            "x": 0.666,
+            "y": 0.213
+          },
+          {
+            "x": 0.645,
+            "y": 0.272
+          },
+          {
+            "x": 0.621,
+            "y": 0.305
+          },
+          {
+            "x": 0.611,
+            "y": 0.306
+          },
+          {
+            "x": 0.6,
+            "y": 0.303
+          },
+          {
+            "x": 0.6,
+            "y": 0.244
+          },
+          {
+            "x": 0.607,
+            "y": 0.228
+          },
+          {
+            "x": 0.63,
+            "y": 0.203
+          },
+          {
+            "x": 0.648,
+            "y": 0.194
+          },
+          {
+            "x": 0.656,
+            "y": 0.194
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.634,
+        "y": 0.238
+      },
+      "z_order": 5,
+      "groups": [
+        "right thalamus"
+      ],
+      "default_color": "rgb(189,179,105)"
+    },
+    "third_ventricle": {
+      "display_name": "Third Ventricle",
+      "anatomical_name": "Third Ventricle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.572,
+            "y": 0.176
+          },
+          {
+            "x": 0.57,
+            "y": 0.149
+          },
+          {
+            "x": 0.564,
+            "y": 0.133
+          },
+          {
+            "x": 0.528,
+            "y": 0.091
+          },
+          {
+            "x": 0.509,
+            "y": 0.103
+          },
+          {
+            "x": 0.502,
+            "y": 0.143
+          },
+          {
+            "x": 0.499,
+            "y": 0.376
+          },
+          {
+            "x": 0.503,
+            "y": 0.405
+          },
+          {
+            "x": 0.518,
+            "y": 0.421
+          },
+          {
+            "x": 0.529,
+            "y": 0.423
+          },
+          {
+            "x": 0.543,
+            "y": 0.415
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.531,
+        "y": 0.258
+      },
+      "z_order": 5,
+      "groups": [
+        "diencephalon"
+      ],
+      "default_color": "rgb(89,105,214)"
+    },
+    "left_optic_nerve": {
+      "display_name": "Left Optic Nerve",
+      "anatomical_name": "Left Optic Nerve",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.458,
+            "y": 0.551
+          },
+          {
+            "x": 0.463,
+            "y": 0.556
+          },
+          {
+            "x": 0.46,
+            "y": 0.566
+          },
+          {
+            "x": 0.269,
+            "y": 0.863
+          },
+          {
+            "x": 0.252,
+            "y": 0.886
+          },
+          {
+            "x": 0.225,
+            "y": 0.889
+          },
+          {
+            "x": 0.215,
+            "y": 0.886
+          },
+          {
+            "x": 0.215,
+            "y": 0.88
+          },
+          {
+            "x": 0.257,
+            "y": 0.732
+          },
+          {
+            "x": 0.338,
+            "y": 0.622
+          },
+          {
+            "x": 0.41,
+            "y": 0.549
+          },
+          {
+            "x": 0.449,
+            "y": 0.549
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.334,
+        "y": 0.711
+      },
+      "z_order": 5,
+      "groups": [
+        "diencephalon"
+      ],
+      "default_color": "rgb(216,219,84)"
+    },
+    "left_internal_medullary_lamina": {
+      "display_name": "Left Internal Medullary Lamina",
+      "anatomical_name": "Left Internal Medullary Lamina",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.533,
+            "y": 0.351
+          },
+          {
+            "x": 0.532,
+            "y": 0.356
+          },
+          {
+            "x": 0.496,
+            "y": 0.386
+          },
+          {
+            "x": 0.479,
+            "y": 0.4
+          },
+          {
+            "x": 0.471,
+            "y": 0.4
+          },
+          {
+            "x": 0.459,
+            "y": 0.391
+          },
+          {
+            "x": 0.449,
+            "y": 0.377
+          },
+          {
+            "x": 0.427,
+            "y": 0.301
+          },
+          {
+            "x": 0.441,
+            "y": 0.206
+          },
+          {
+            "x": 0.474,
+            "y": 0.203
+          },
+          {
+            "x": 0.494,
+            "y": 0.204
+          },
+          {
+            "x": 0.501,
+            "y": 0.209
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.48,
+        "y": 0.315
+      },
+      "z_order": 5,
+      "groups": [
+        "left thalamus"
+      ],
+      "default_color": "rgb(200,200,200)"
+    },
+    "left_anterior_thalamic_nucleus": {
+      "display_name": "Left Anterior Thalamic Nucleus",
+      "anatomical_name": "Left Anterior Thalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.488,
+            "y": 0.413
+          },
+          {
+            "x": 0.499,
+            "y": 0.412
+          },
+          {
+            "x": 0.503,
+            "y": 0.405
+          },
+          {
+            "x": 0.518,
+            "y": 0.322
+          },
+          {
+            "x": 0.496,
+            "y": 0.307
+          },
+          {
+            "x": 0.47,
+            "y": 0.309
+          },
+          {
+            "x": 0.466,
+            "y": 0.313
+          },
+          {
+            "x": 0.457,
+            "y": 0.329
+          },
+          {
+            "x": 0.455,
+            "y": 0.367
+          },
+          {
+            "x": 0.456,
+            "y": 0.377
+          },
+          {
+            "x": 0.477,
+            "y": 0.406
+          },
+          {
+            "x": 0.483,
+            "y": 0.411
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.481,
+        "y": 0.364
+      },
+      "z_order": 5,
+      "groups": [
+        "left thalamus"
+      ],
+      "default_color": "rgb(255,24,130)"
+    },
+    "left_dorsomedial_thalamic_nucleus": {
+      "display_name": "Left Dorsomedial Thalamic Nucleus",
+      "anatomical_name": "Left Dorsomedial Thalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.467,
+            "y": 0.214
+          },
+          {
+            "x": 0.5,
+            "y": 0.21
+          },
+          {
+            "x": 0.525,
+            "y": 0.223
+          },
+          {
+            "x": 0.536,
+            "y": 0.236
+          },
+          {
+            "x": 0.538,
+            "y": 0.262
+          },
+          {
+            "x": 0.532,
+            "y": 0.353
+          },
+          {
+            "x": 0.524,
+            "y": 0.362
+          },
+          {
+            "x": 0.511,
+            "y": 0.358
+          },
+          {
+            "x": 0.474,
+            "y": 0.32
+          },
+          {
+            "x": 0.458,
+            "y": 0.26
+          },
+          {
+            "x": 0.456,
+            "y": 0.237
+          },
+          {
+            "x": 0.459,
+            "y": 0.219
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.498,
+        "y": 0.271
+      },
+      "z_order": 5,
+      "groups": [
+        "left thalamus"
+      ],
+      "default_color": "rgb(59,189,130)"
+    }
+  }
+}

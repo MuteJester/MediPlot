@@ -1,0 +1,1009 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_hypothalamus_superior",
+  "display_name": "Brain Hypothalamus (Superior View)",
+  "description": "Head and neck anatomy with labeled structures (superior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "superior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.832,
+        "y": 0.117
+      },
+      {
+        "x": 0.753,
+        "y": 0.892
+      },
+      {
+        "x": 0.734,
+        "y": 0.904
+      },
+      {
+        "x": 0.262,
+        "y": 0.909
+      },
+      {
+        "x": 0.198,
+        "y": 0.904
+      },
+      {
+        "x": 0.172,
+        "y": 0.887
+      },
+      {
+        "x": 0.168,
+        "y": 0.868
+      },
+      {
+        "x": 0.288,
+        "y": 0.125
+      },
+      {
+        "x": 0.292,
+        "y": 0.107
+      },
+      {
+        "x": 0.31,
+        "y": 0.104
+      },
+      {
+        "x": 0.504,
+        "y": 0.091
+      },
+      {
+        "x": 0.741,
+        "y": 0.1
+      },
+      {
+        "x": 0.825,
+        "y": 0.107
+      }
+    ]
+  },
+  "regions": {
+    "left_anterior_inferior_hypothalamus": {
+      "display_name": "Left Anterior Inferior Hypothalamus",
+      "anatomical_name": "Left Anterior Inferior Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.347,
+            "y": 0.651
+          },
+          {
+            "x": 0.484,
+            "y": 0.628
+          },
+          {
+            "x": 0.488,
+            "y": 0.626
+          },
+          {
+            "x": 0.458,
+            "y": 0.593
+          },
+          {
+            "x": 0.346,
+            "y": 0.589
+          },
+          {
+            "x": 0.34,
+            "y": 0.602
+          },
+          {
+            "x": 0.337,
+            "y": 0.615
+          },
+          {
+            "x": 0.341,
+            "y": 0.629
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.393,
+        "y": 0.617
+      },
+      "z_order": 5,
+      "groups": [
+        "left hypothalamus"
+      ],
+      "default_color": "rgb(135,246,4)"
+    },
+    "right_inferior_tuberal_hypothalamus": {
+      "display_name": "Right Inferior Tuberal Hypothalamus",
+      "anatomical_name": "Right Inferior Tuberal Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.596,
+            "y": 0.618
+          },
+          {
+            "x": 0.608,
+            "y": 0.619
+          },
+          {
+            "x": 0.674,
+            "y": 0.609
+          },
+          {
+            "x": 0.705,
+            "y": 0.581
+          },
+          {
+            "x": 0.796,
+            "y": 0.456
+          },
+          {
+            "x": 0.787,
+            "y": 0.431
+          },
+          {
+            "x": 0.661,
+            "y": 0.365
+          },
+          {
+            "x": 0.593,
+            "y": 0.365
+          },
+          {
+            "x": 0.553,
+            "y": 0.379
+          },
+          {
+            "x": 0.497,
+            "y": 0.43
+          },
+          {
+            "x": 0.499,
+            "y": 0.504
+          },
+          {
+            "x": 0.509,
+            "y": 0.551
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.623,
+        "y": 0.492
+      },
+      "z_order": 5,
+      "groups": [
+        "right hypothalamus"
+      ],
+      "default_color": "rgb(4,235,124)"
+    },
+    "left_superior_tuberal_hypothalamus": {
+      "display_name": "Left Superior Tuberal Hypothalamus",
+      "anatomical_name": "Left Superior Tuberal Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.457,
+            "y": 0.328
+          },
+          {
+            "x": 0.479,
+            "y": 0.36
+          },
+          {
+            "x": 0.497,
+            "y": 0.444
+          },
+          {
+            "x": 0.487,
+            "y": 0.532
+          },
+          {
+            "x": 0.457,
+            "y": 0.584
+          },
+          {
+            "x": 0.383,
+            "y": 0.59
+          },
+          {
+            "x": 0.337,
+            "y": 0.557
+          },
+          {
+            "x": 0.303,
+            "y": 0.514
+          },
+          {
+            "x": 0.289,
+            "y": 0.476
+          },
+          {
+            "x": 0.304,
+            "y": 0.367
+          },
+          {
+            "x": 0.328,
+            "y": 0.328
+          },
+          {
+            "x": 0.444,
+            "y": 0.326
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.397,
+        "y": 0.451
+      },
+      "z_order": 5,
+      "groups": [
+        "left hypothalamus"
+      ],
+      "default_color": "rgb(147,68,17)"
+    },
+    "left_inferior_tuberal_hypothalamus": {
+      "display_name": "Left Inferior Tuberal Hypothalamus",
+      "anatomical_name": "Left Inferior Tuberal Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.351,
+            "y": 0.329
+          },
+          {
+            "x": 0.46,
+            "y": 0.362
+          },
+          {
+            "x": 0.497,
+            "y": 0.43
+          },
+          {
+            "x": 0.499,
+            "y": 0.504
+          },
+          {
+            "x": 0.482,
+            "y": 0.568
+          },
+          {
+            "x": 0.458,
+            "y": 0.605
+          },
+          {
+            "x": 0.36,
+            "y": 0.599
+          },
+          {
+            "x": 0.25,
+            "y": 0.492
+          },
+          {
+            "x": 0.255,
+            "y": 0.424
+          },
+          {
+            "x": 0.263,
+            "y": 0.39
+          },
+          {
+            "x": 0.322,
+            "y": 0.337
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.382,
+        "y": 0.458
+      },
+      "z_order": 5,
+      "groups": [
+        "left hypothalamus"
+      ],
+      "default_color": "rgb(4,235,124)"
+    },
+    "right_anterior_inferior_hypothalamus": {
+      "display_name": "Right Anterior Inferior Hypothalamus",
+      "anatomical_name": "Right Anterior Inferior Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.636,
+            "y": 0.66
+          },
+          {
+            "x": 0.656,
+            "y": 0.658
+          },
+          {
+            "x": 0.674,
+            "y": 0.651
+          },
+          {
+            "x": 0.682,
+            "y": 0.645
+          },
+          {
+            "x": 0.683,
+            "y": 0.635
+          },
+          {
+            "x": 0.674,
+            "y": 0.608
+          },
+          {
+            "x": 0.593,
+            "y": 0.596
+          },
+          {
+            "x": 0.593,
+            "y": 0.622
+          },
+          {
+            "x": 0.594,
+            "y": 0.638
+          },
+          {
+            "x": 0.599,
+            "y": 0.647
+          },
+          {
+            "x": 0.611,
+            "y": 0.657
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.636,
+        "y": 0.638
+      },
+      "z_order": 5,
+      "groups": [
+        "right hypothalamus"
+      ],
+      "default_color": "rgb(135,246,4)"
+    },
+    "right_posterior_superior_hypothalamus": {
+      "display_name": "Right Posterior Superior Hypothalamus",
+      "anatomical_name": "Right Posterior Superior Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.527,
+            "y": 0.197
+          },
+          {
+            "x": 0.53,
+            "y": 0.361
+          },
+          {
+            "x": 0.535,
+            "y": 0.399
+          },
+          {
+            "x": 0.659,
+            "y": 0.369
+          },
+          {
+            "x": 0.669,
+            "y": 0.355
+          },
+          {
+            "x": 0.649,
+            "y": 0.254
+          },
+          {
+            "x": 0.638,
+            "y": 0.239
+          },
+          {
+            "x": 0.552,
+            "y": 0.179
+          },
+          {
+            "x": 0.528,
+            "y": 0.181
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.588,
+        "y": 0.282
+      },
+      "z_order": 5,
+      "groups": [
+        "right hypothalamus"
+      ],
+      "default_color": "rgb(124,38,205)"
+    },
+    "optic_chiasm": {
+      "display_name": "Optic Chiasm",
+      "anatomical_name": "Optic Chiasm",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.716,
+            "y": 0.63
+          },
+          {
+            "x": 0.752,
+            "y": 0.882
+          },
+          {
+            "x": 0.753,
+            "y": 0.892
+          },
+          {
+            "x": 0.734,
+            "y": 0.904
+          },
+          {
+            "x": 0.262,
+            "y": 0.909
+          },
+          {
+            "x": 0.198,
+            "y": 0.904
+          },
+          {
+            "x": 0.172,
+            "y": 0.887
+          },
+          {
+            "x": 0.168,
+            "y": 0.868
+          },
+          {
+            "x": 0.28,
+            "y": 0.622
+          },
+          {
+            "x": 0.585,
+            "y": 0.617
+          },
+          {
+            "x": 0.706,
+            "y": 0.623
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.484,
+        "y": 0.794
+      },
+      "z_order": 5,
+      "groups": [
+        "hypothalamus"
+      ],
+      "default_color": "rgb(98,105,23)"
+    },
+    "left_posterior_superior_hypothalamus": {
+      "display_name": "Left Posterior Superior Hypothalamus",
+      "anatomical_name": "Left Posterior Superior Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.501,
+            "y": 0.283
+          },
+          {
+            "x": 0.453,
+            "y": 0.341
+          },
+          {
+            "x": 0.33,
+            "y": 0.361
+          },
+          {
+            "x": 0.314,
+            "y": 0.353
+          },
+          {
+            "x": 0.314,
+            "y": 0.309
+          },
+          {
+            "x": 0.319,
+            "y": 0.275
+          },
+          {
+            "x": 0.347,
+            "y": 0.233
+          },
+          {
+            "x": 0.447,
+            "y": 0.102
+          },
+          {
+            "x": 0.504,
+            "y": 0.091
+          },
+          {
+            "x": 0.52,
+            "y": 0.128
+          },
+          {
+            "x": 0.528,
+            "y": 0.181
+          },
+          {
+            "x": 0.524,
+            "y": 0.226
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.425,
+        "y": 0.24
+      },
+      "z_order": 5,
+      "groups": [
+        "left hypothalamus"
+      ],
+      "default_color": "rgb(124,38,205)"
+    },
+    "left_mammillary_body": {
+      "display_name": "Left Mammillary Body",
+      "anatomical_name": "Left Mammillary Body",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.383,
+            "y": 0.373
+          },
+          {
+            "x": 0.415,
+            "y": 0.383
+          },
+          {
+            "x": 0.434,
+            "y": 0.384
+          },
+          {
+            "x": 0.461,
+            "y": 0.367
+          },
+          {
+            "x": 0.497,
+            "y": 0.327
+          },
+          {
+            "x": 0.499,
+            "y": 0.288
+          },
+          {
+            "x": 0.497,
+            "y": 0.268
+          },
+          {
+            "x": 0.465,
+            "y": 0.254
+          },
+          {
+            "x": 0.389,
+            "y": 0.236
+          },
+          {
+            "x": 0.372,
+            "y": 0.258
+          },
+          {
+            "x": 0.365,
+            "y": 0.327
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.434,
+        "y": 0.315
+      },
+      "z_order": 5,
+      "groups": [
+        "hypothalamus"
+      ],
+      "default_color": "rgb(154,230,255)"
+    },
+    "left_anterior_superior_hypothalamus": {
+      "display_name": "Left Anterior Superior Hypothalamus",
+      "anatomical_name": "Left Anterior Superior Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.38,
+            "y": 0.685
+          },
+          {
+            "x": 0.407,
+            "y": 0.677
+          },
+          {
+            "x": 0.429,
+            "y": 0.664
+          },
+          {
+            "x": 0.44,
+            "y": 0.652
+          },
+          {
+            "x": 0.46,
+            "y": 0.626
+          },
+          {
+            "x": 0.463,
+            "y": 0.62
+          },
+          {
+            "x": 0.466,
+            "y": 0.6
+          },
+          {
+            "x": 0.465,
+            "y": 0.581
+          },
+          {
+            "x": 0.451,
+            "y": 0.562
+          },
+          {
+            "x": 0.439,
+            "y": 0.561
+          },
+          {
+            "x": 0.337,
+            "y": 0.557
+          },
+          {
+            "x": 0.306,
+            "y": 0.573
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.42,
+        "y": 0.613
+      },
+      "z_order": 5,
+      "groups": [
+        "left hypothalamus"
+      ],
+      "default_color": "rgb(242,135,61)"
+    },
+    "right_mammillary_body": {
+      "display_name": "Right Mammillary Body",
+      "anatomical_name": "Right Mammillary Body",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.658,
+            "y": 0.332
+          },
+          {
+            "x": 0.657,
+            "y": 0.356
+          },
+          {
+            "x": 0.622,
+            "y": 0.39
+          },
+          {
+            "x": 0.601,
+            "y": 0.401
+          },
+          {
+            "x": 0.541,
+            "y": 0.371
+          },
+          {
+            "x": 0.497,
+            "y": 0.327
+          },
+          {
+            "x": 0.497,
+            "y": 0.268
+          },
+          {
+            "x": 0.556,
+            "y": 0.25
+          },
+          {
+            "x": 0.628,
+            "y": 0.252
+          },
+          {
+            "x": 0.635,
+            "y": 0.261
+          },
+          {
+            "x": 0.652,
+            "y": 0.3
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.595,
+        "y": 0.319
+      },
+      "z_order": 5,
+      "groups": [
+        "hypothalamus"
+      ],
+      "default_color": "rgb(130,154,94)"
+    },
+    "right_superior_tuberal_hypothalamus": {
+      "display_name": "Right Superior Tuberal Hypothalamus",
+      "anatomical_name": "Right Superior Tuberal Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.73,
+            "y": 0.59
+          },
+          {
+            "x": 0.674,
+            "y": 0.608
+          },
+          {
+            "x": 0.639,
+            "y": 0.607
+          },
+          {
+            "x": 0.576,
+            "y": 0.596
+          },
+          {
+            "x": 0.564,
+            "y": 0.574
+          },
+          {
+            "x": 0.528,
+            "y": 0.441
+          },
+          {
+            "x": 0.582,
+            "y": 0.336
+          },
+          {
+            "x": 0.603,
+            "y": 0.321
+          },
+          {
+            "x": 0.62,
+            "y": 0.321
+          },
+          {
+            "x": 0.699,
+            "y": 0.352
+          },
+          {
+            "x": 0.723,
+            "y": 0.381
+          },
+          {
+            "x": 0.741,
+            "y": 0.44
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.64,
+        "y": 0.464
+      },
+      "z_order": 5,
+      "groups": [
+        "right hypothalamus"
+      ],
+      "default_color": "rgb(147,68,17)"
+    },
+    "right_subthalamic_nucleus": {
+      "display_name": "Right Subthalamic Nucleus",
+      "anatomical_name": "Right Subthalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.704,
+            "y": 0.218
+          },
+          {
+            "x": 0.77,
+            "y": 0.187
+          },
+          {
+            "x": 0.801,
+            "y": 0.167
+          },
+          {
+            "x": 0.825,
+            "y": 0.141
+          },
+          {
+            "x": 0.832,
+            "y": 0.117
+          },
+          {
+            "x": 0.825,
+            "y": 0.107
+          },
+          {
+            "x": 0.741,
+            "y": 0.1
+          },
+          {
+            "x": 0.702,
+            "y": 0.103
+          },
+          {
+            "x": 0.688,
+            "y": 0.121
+          },
+          {
+            "x": 0.667,
+            "y": 0.183
+          },
+          {
+            "x": 0.672,
+            "y": 0.193
+          },
+          {
+            "x": 0.691,
+            "y": 0.21
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.743,
+        "y": 0.154
+      },
+      "z_order": 5,
+      "groups": [
+        "right hypothalamus"
+      ],
+      "default_color": "rgb(200,24,40)"
+    },
+    "right_anterior_superior_hypothalamus": {
+      "display_name": "Right Anterior Superior Hypothalamus",
+      "anatomical_name": "Right Anterior Superior Hypothalamus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.741,
+            "y": 0.6
+          },
+          {
+            "x": 0.687,
+            "y": 0.588
+          },
+          {
+            "x": 0.596,
+            "y": 0.589
+          },
+          {
+            "x": 0.58,
+            "y": 0.592
+          },
+          {
+            "x": 0.562,
+            "y": 0.617
+          },
+          {
+            "x": 0.555,
+            "y": 0.635
+          },
+          {
+            "x": 0.556,
+            "y": 0.654
+          },
+          {
+            "x": 0.567,
+            "y": 0.67
+          },
+          {
+            "x": 0.576,
+            "y": 0.68
+          },
+          {
+            "x": 0.586,
+            "y": 0.685
+          },
+          {
+            "x": 0.608,
+            "y": 0.684
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.601,
+        "y": 0.636
+      },
+      "z_order": 5,
+      "groups": [
+        "right hypothalamus"
+      ],
+      "default_color": "rgb(242,135,61)"
+    },
+    "left_subthalamic_nucleus": {
+      "display_name": "Left Subthalamic Nucleus",
+      "anatomical_name": "Left Subthalamic Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.387,
+            "y": 0.1
+          },
+          {
+            "x": 0.413,
+            "y": 0.101
+          },
+          {
+            "x": 0.431,
+            "y": 0.125
+          },
+          {
+            "x": 0.454,
+            "y": 0.186
+          },
+          {
+            "x": 0.426,
+            "y": 0.209
+          },
+          {
+            "x": 0.409,
+            "y": 0.212
+          },
+          {
+            "x": 0.39,
+            "y": 0.205
+          },
+          {
+            "x": 0.326,
+            "y": 0.172
+          },
+          {
+            "x": 0.3,
+            "y": 0.147
+          },
+          {
+            "x": 0.288,
+            "y": 0.125
+          },
+          {
+            "x": 0.292,
+            "y": 0.107
+          },
+          {
+            "x": 0.31,
+            "y": 0.104
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.369,
+        "y": 0.149
+      },
+      "z_order": 5,
+      "groups": [
+        "left hypothalamus"
+      ],
+      "default_color": "rgb(200,24,40)"
+    }
+  }
+}

@@ -1,0 +1,1461 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "abdomen_muscles_anterior",
+  "display_name": "Abdomen Muscles (Anterior View)",
+  "description": "Head and neck anatomy with labeled structures (anterior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "anterior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.099,
+        "y": 0.172
+      },
+      {
+        "x": 0.23,
+        "y": 0.17
+      },
+      {
+        "x": 0.703,
+        "y": 0.17
+      },
+      {
+        "x": 0.876,
+        "y": 0.171
+      },
+      {
+        "x": 0.902,
+        "y": 0.172
+      },
+      {
+        "x": 0.907,
+        "y": 0.173
+      },
+      {
+        "x": 0.909,
+        "y": 0.174
+      },
+      {
+        "x": 0.899,
+        "y": 0.695
+      },
+      {
+        "x": 0.896,
+        "y": 0.732
+      },
+      {
+        "x": 0.893,
+        "y": 0.741
+      },
+      {
+        "x": 0.707,
+        "y": 0.827
+      },
+      {
+        "x": 0.619,
+        "y": 0.83
+      },
+      {
+        "x": 0.517,
+        "y": 0.83
+      },
+      {
+        "x": 0.265,
+        "y": 0.828
+      },
+      {
+        "x": 0.093,
+        "y": 0.739
+      },
+      {
+        "x": 0.091,
+        "y": 0.705
+      },
+      {
+        "x": 0.091,
+        "y": 0.666
+      }
+    ]
+  },
+  "regions": {
+    "right_erector_spinae_muscle": {
+      "display_name": "Right Erector Spinae Muscle",
+      "anatomical_name": "Right Erector Spinae Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.497,
+            "y": 0.197
+          },
+          {
+            "x": 0.503,
+            "y": 0.825
+          },
+          {
+            "x": 0.506,
+            "y": 0.828
+          },
+          {
+            "x": 0.517,
+            "y": 0.83
+          },
+          {
+            "x": 0.619,
+            "y": 0.83
+          },
+          {
+            "x": 0.63,
+            "y": 0.827
+          },
+          {
+            "x": 0.662,
+            "y": 0.785
+          },
+          {
+            "x": 0.709,
+            "y": 0.663
+          },
+          {
+            "x": 0.725,
+            "y": 0.602
+          },
+          {
+            "x": 0.728,
+            "y": 0.566
+          },
+          {
+            "x": 0.696,
+            "y": 0.422
+          },
+          {
+            "x": 0.577,
+            "y": 0.179
+          },
+          {
+            "x": 0.576,
+            "y": 0.178
+          },
+          {
+            "x": 0.558,
+            "y": 0.177
+          },
+          {
+            "x": 0.498,
+            "y": 0.177
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.6,
+        "y": 0.539
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_external_oblique_muscle": {
+      "display_name": "Right External Oblique Muscle",
+      "anatomical_name": "Right External Oblique Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.897,
+            "y": 0.62
+          },
+          {
+            "x": 0.899,
+            "y": 0.695
+          },
+          {
+            "x": 0.896,
+            "y": 0.732
+          },
+          {
+            "x": 0.893,
+            "y": 0.741
+          },
+          {
+            "x": 0.724,
+            "y": 0.74
+          },
+          {
+            "x": 0.719,
+            "y": 0.739
+          },
+          {
+            "x": 0.698,
+            "y": 0.727
+          },
+          {
+            "x": 0.697,
+            "y": 0.725
+          },
+          {
+            "x": 0.692,
+            "y": 0.374
+          },
+          {
+            "x": 0.712,
+            "y": 0.345
+          },
+          {
+            "x": 0.739,
+            "y": 0.337
+          },
+          {
+            "x": 0.848,
+            "y": 0.337
+          },
+          {
+            "x": 0.855,
+            "y": 0.338
+          },
+          {
+            "x": 0.856,
+            "y": 0.34
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.795,
+        "y": 0.556
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_internal_oblique_muscle": {
+      "display_name": "Left Internal Oblique Muscle",
+      "anatomical_name": "Left Internal Oblique Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.284,
+            "y": 0.478
+          },
+          {
+            "x": 0.282,
+            "y": 0.483
+          },
+          {
+            "x": 0.226,
+            "y": 0.55
+          },
+          {
+            "x": 0.194,
+            "y": 0.556
+          },
+          {
+            "x": 0.142,
+            "y": 0.557
+          },
+          {
+            "x": 0.12,
+            "y": 0.555
+          },
+          {
+            "x": 0.171,
+            "y": 0.341
+          },
+          {
+            "x": 0.248,
+            "y": 0.21
+          },
+          {
+            "x": 0.282,
+            "y": 0.179
+          },
+          {
+            "x": 0.309,
+            "y": 0.171
+          },
+          {
+            "x": 0.362,
+            "y": 0.17
+          },
+          {
+            "x": 0.376,
+            "y": 0.173
+          },
+          {
+            "x": 0.378,
+            "y": 0.18
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.26,
+        "y": 0.354
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_iliacus_muscle": {
+      "display_name": "Left Iliacus Muscle",
+      "anatomical_name": "Left Iliacus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.238,
+            "y": 0.172
+          },
+          {
+            "x": 0.219,
+            "y": 0.224
+          },
+          {
+            "x": 0.205,
+            "y": 0.298
+          },
+          {
+            "x": 0.207,
+            "y": 0.312
+          },
+          {
+            "x": 0.231,
+            "y": 0.33
+          },
+          {
+            "x": 0.237,
+            "y": 0.332
+          },
+          {
+            "x": 0.295,
+            "y": 0.331
+          },
+          {
+            "x": 0.331,
+            "y": 0.325
+          },
+          {
+            "x": 0.336,
+            "y": 0.323
+          },
+          {
+            "x": 0.373,
+            "y": 0.281
+          },
+          {
+            "x": 0.354,
+            "y": 0.22
+          },
+          {
+            "x": 0.322,
+            "y": 0.173
+          },
+          {
+            "x": 0.314,
+            "y": 0.17
+          },
+          {
+            "x": 0.243,
+            "y": 0.171
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.279,
+        "y": 0.262
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_internal_oblique_muscle": {
+      "display_name": "Right Internal Oblique Muscle",
+      "anatomical_name": "Right Internal Oblique Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.698,
+            "y": 0.479
+          },
+          {
+            "x": 0.737,
+            "y": 0.531
+          },
+          {
+            "x": 0.778,
+            "y": 0.555
+          },
+          {
+            "x": 0.859,
+            "y": 0.557
+          },
+          {
+            "x": 0.833,
+            "y": 0.34
+          },
+          {
+            "x": 0.825,
+            "y": 0.314
+          },
+          {
+            "x": 0.758,
+            "y": 0.201
+          },
+          {
+            "x": 0.751,
+            "y": 0.191
+          },
+          {
+            "x": 0.732,
+            "y": 0.178
+          },
+          {
+            "x": 0.716,
+            "y": 0.172
+          },
+          {
+            "x": 0.696,
+            "y": 0.17
+          },
+          {
+            "x": 0.632,
+            "y": 0.172
+          },
+          {
+            "x": 0.628,
+            "y": 0.179
+          },
+          {
+            "x": 0.64,
+            "y": 0.245
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.735,
+        "y": 0.306
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "rectus_abdominis_muscle": {
+      "display_name": "Rectus Abdominis Muscle",
+      "anatomical_name": "Rectus Abdominis Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.265,
+            "y": 0.828
+          },
+          {
+            "x": 0.707,
+            "y": 0.827
+          },
+          {
+            "x": 0.737,
+            "y": 0.761
+          },
+          {
+            "x": 0.658,
+            "y": 0.297
+          },
+          {
+            "x": 0.636,
+            "y": 0.218
+          },
+          {
+            "x": 0.615,
+            "y": 0.179
+          },
+          {
+            "x": 0.598,
+            "y": 0.171
+          },
+          {
+            "x": 0.379,
+            "y": 0.172
+          },
+          {
+            "x": 0.342,
+            "y": 0.239
+          },
+          {
+            "x": 0.312,
+            "y": 0.337
+          },
+          {
+            "x": 0.243,
+            "y": 0.695
+          },
+          {
+            "x": 0.244,
+            "y": 0.737
+          },
+          {
+            "x": 0.258,
+            "y": 0.818
+          },
+          {
+            "x": 0.263,
+            "y": 0.827
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.447,
+        "y": 0.508
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_psoas_muscle": {
+      "display_name": "Left Psoas Muscle",
+      "anatomical_name": "Left Psoas Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.346,
+            "y": 0.171
+          },
+          {
+            "x": 0.41,
+            "y": 0.334
+          },
+          {
+            "x": 0.452,
+            "y": 0.453
+          },
+          {
+            "x": 0.451,
+            "y": 0.61
+          },
+          {
+            "x": 0.443,
+            "y": 0.632
+          },
+          {
+            "x": 0.436,
+            "y": 0.644
+          },
+          {
+            "x": 0.43,
+            "y": 0.646
+          },
+          {
+            "x": 0.413,
+            "y": 0.645
+          },
+          {
+            "x": 0.402,
+            "y": 0.633
+          },
+          {
+            "x": 0.376,
+            "y": 0.596
+          },
+          {
+            "x": 0.311,
+            "y": 0.239
+          },
+          {
+            "x": 0.305,
+            "y": 0.173
+          },
+          {
+            "x": 0.315,
+            "y": 0.171
+          },
+          {
+            "x": 0.344,
+            "y": 0.17
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.388,
+        "y": 0.437
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_gluteus_minimus_muscle": {
+      "display_name": "Left Gluteus Minimus Muscle",
+      "anatomical_name": "Left Gluteus Minimus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.318,
+            "y": 0.192
+          },
+          {
+            "x": 0.306,
+            "y": 0.239
+          },
+          {
+            "x": 0.298,
+            "y": 0.258
+          },
+          {
+            "x": 0.261,
+            "y": 0.265
+          },
+          {
+            "x": 0.187,
+            "y": 0.267
+          },
+          {
+            "x": 0.173,
+            "y": 0.265
+          },
+          {
+            "x": 0.167,
+            "y": 0.254
+          },
+          {
+            "x": 0.172,
+            "y": 0.207
+          },
+          {
+            "x": 0.179,
+            "y": 0.186
+          },
+          {
+            "x": 0.191,
+            "y": 0.172
+          },
+          {
+            "x": 0.23,
+            "y": 0.17
+          },
+          {
+            "x": 0.304,
+            "y": 0.171
+          },
+          {
+            "x": 0.314,
+            "y": 0.173
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.238,
+        "y": 0.217
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_quadratus_lumborum_muscle": {
+      "display_name": "Left Quadratus Lumborum Muscle",
+      "anatomical_name": "Left Quadratus Lumborum Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.459,
+            "y": 0.603
+          },
+          {
+            "x": 0.42,
+            "y": 0.627
+          },
+          {
+            "x": 0.417,
+            "y": 0.628
+          },
+          {
+            "x": 0.37,
+            "y": 0.628
+          },
+          {
+            "x": 0.33,
+            "y": 0.608
+          },
+          {
+            "x": 0.314,
+            "y": 0.582
+          },
+          {
+            "x": 0.246,
+            "y": 0.397
+          },
+          {
+            "x": 0.245,
+            "y": 0.391
+          },
+          {
+            "x": 0.326,
+            "y": 0.389
+          },
+          {
+            "x": 0.356,
+            "y": 0.39
+          },
+          {
+            "x": 0.363,
+            "y": 0.392
+          },
+          {
+            "x": 0.447,
+            "y": 0.45
+          },
+          {
+            "x": 0.447,
+            "y": 0.453
+          },
+          {
+            "x": 0.455,
+            "y": 0.522
+          },
+          {
+            "x": 0.46,
+            "y": 0.6
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.377,
+        "y": 0.511
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_erector_spinae_muscle": {
+      "display_name": "Left Erector Spinae Muscle",
+      "anatomical_name": "Left Erector Spinae Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.42,
+            "y": 0.177
+          },
+          {
+            "x": 0.491,
+            "y": 0.177
+          },
+          {
+            "x": 0.503,
+            "y": 0.186
+          },
+          {
+            "x": 0.507,
+            "y": 0.55
+          },
+          {
+            "x": 0.503,
+            "y": 0.749
+          },
+          {
+            "x": 0.497,
+            "y": 0.824
+          },
+          {
+            "x": 0.496,
+            "y": 0.828
+          },
+          {
+            "x": 0.49,
+            "y": 0.83
+          },
+          {
+            "x": 0.361,
+            "y": 0.828
+          },
+          {
+            "x": 0.339,
+            "y": 0.787
+          },
+          {
+            "x": 0.287,
+            "y": 0.637
+          },
+          {
+            "x": 0.277,
+            "y": 0.566
+          },
+          {
+            "x": 0.29,
+            "y": 0.471
+          },
+          {
+            "x": 0.301,
+            "y": 0.429
+          },
+          {
+            "x": 0.417,
+            "y": 0.178
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.412,
+        "y": 0.548
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_gluteus_minimus_muscle": {
+      "display_name": "Right Gluteus Minimus Muscle",
+      "anatomical_name": "Right Gluteus Minimus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.832,
+            "y": 0.264
+          },
+          {
+            "x": 0.82,
+            "y": 0.266
+          },
+          {
+            "x": 0.781,
+            "y": 0.266
+          },
+          {
+            "x": 0.721,
+            "y": 0.265
+          },
+          {
+            "x": 0.71,
+            "y": 0.259
+          },
+          {
+            "x": 0.695,
+            "y": 0.187
+          },
+          {
+            "x": 0.703,
+            "y": 0.172
+          },
+          {
+            "x": 0.705,
+            "y": 0.17
+          },
+          {
+            "x": 0.784,
+            "y": 0.17
+          },
+          {
+            "x": 0.824,
+            "y": 0.172
+          },
+          {
+            "x": 0.826,
+            "y": 0.176
+          },
+          {
+            "x": 0.837,
+            "y": 0.245
+          },
+          {
+            "x": 0.836,
+            "y": 0.257
+          },
+          {
+            "x": 0.834,
+            "y": 0.263
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.779,
+        "y": 0.224
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_gluteus_maximus_muscle": {
+      "display_name": "Right Gluteus Maximus Muscle",
+      "anatomical_name": "Right Gluteus Maximus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.909,
+            "y": 0.174
+          },
+          {
+            "x": 0.902,
+            "y": 0.172
+          },
+          {
+            "x": 0.812,
+            "y": 0.171
+          },
+          {
+            "x": 0.572,
+            "y": 0.171
+          },
+          {
+            "x": 0.566,
+            "y": 0.172
+          },
+          {
+            "x": 0.558,
+            "y": 0.179
+          },
+          {
+            "x": 0.55,
+            "y": 0.191
+          },
+          {
+            "x": 0.561,
+            "y": 0.204
+          },
+          {
+            "x": 0.677,
+            "y": 0.312
+          },
+          {
+            "x": 0.718,
+            "y": 0.312
+          },
+          {
+            "x": 0.772,
+            "y": 0.294
+          },
+          {
+            "x": 0.859,
+            "y": 0.235
+          },
+          {
+            "x": 0.881,
+            "y": 0.213
+          },
+          {
+            "x": 0.909,
+            "y": 0.175
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.732,
+        "y": 0.213
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_external_oblique_muscle": {
+      "display_name": "Left External Oblique Muscle",
+      "anatomical_name": "Left External Oblique Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.15,
+            "y": 0.338
+          },
+          {
+            "x": 0.12,
+            "y": 0.455
+          },
+          {
+            "x": 0.102,
+            "y": 0.55
+          },
+          {
+            "x": 0.091,
+            "y": 0.666
+          },
+          {
+            "x": 0.091,
+            "y": 0.705
+          },
+          {
+            "x": 0.093,
+            "y": 0.739
+          },
+          {
+            "x": 0.098,
+            "y": 0.741
+          },
+          {
+            "x": 0.116,
+            "y": 0.741
+          },
+          {
+            "x": 0.245,
+            "y": 0.74
+          },
+          {
+            "x": 0.257,
+            "y": 0.729
+          },
+          {
+            "x": 0.258,
+            "y": 0.719
+          },
+          {
+            "x": 0.248,
+            "y": 0.341
+          },
+          {
+            "x": 0.247,
+            "y": 0.339
+          },
+          {
+            "x": 0.237,
+            "y": 0.338
+          },
+          {
+            "x": 0.155,
+            "y": 0.337
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.167,
+        "y": 0.565
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_quadratus_lumborum_muscle": {
+      "display_name": "Right Quadratus Lumborum Muscle",
+      "anatomical_name": "Right Quadratus Lumborum Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.546,
+            "y": 0.601
+          },
+          {
+            "x": 0.56,
+            "y": 0.604
+          },
+          {
+            "x": 0.624,
+            "y": 0.605
+          },
+          {
+            "x": 0.671,
+            "y": 0.597
+          },
+          {
+            "x": 0.766,
+            "y": 0.395
+          },
+          {
+            "x": 0.767,
+            "y": 0.392
+          },
+          {
+            "x": 0.765,
+            "y": 0.391
+          },
+          {
+            "x": 0.699,
+            "y": 0.39
+          },
+          {
+            "x": 0.653,
+            "y": 0.391
+          },
+          {
+            "x": 0.615,
+            "y": 0.405
+          },
+          {
+            "x": 0.554,
+            "y": 0.451
+          },
+          {
+            "x": 0.536,
+            "y": 0.597
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.646,
+        "y": 0.485
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_gluteus_maximus_muscle": {
+      "display_name": "Left Gluteus Maximus Muscle",
+      "anatomical_name": "Left Gluteus Maximus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.13,
+            "y": 0.172
+          },
+          {
+            "x": 0.432,
+            "y": 0.172
+          },
+          {
+            "x": 0.444,
+            "y": 0.191
+          },
+          {
+            "x": 0.42,
+            "y": 0.216
+          },
+          {
+            "x": 0.32,
+            "y": 0.3
+          },
+          {
+            "x": 0.263,
+            "y": 0.3
+          },
+          {
+            "x": 0.241,
+            "y": 0.294
+          },
+          {
+            "x": 0.191,
+            "y": 0.265
+          },
+          {
+            "x": 0.13,
+            "y": 0.192
+          },
+          {
+            "x": 0.127,
+            "y": 0.183
+          },
+          {
+            "x": 0.129,
+            "y": 0.173
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.257,
+        "y": 0.223
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_iliacus_muscle": {
+      "display_name": "Right Iliacus Muscle",
+      "anatomical_name": "Right Iliacus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.625,
+            "y": 0.291
+          },
+          {
+            "x": 0.644,
+            "y": 0.312
+          },
+          {
+            "x": 0.664,
+            "y": 0.325
+          },
+          {
+            "x": 0.765,
+            "y": 0.325
+          },
+          {
+            "x": 0.803,
+            "y": 0.313
+          },
+          {
+            "x": 0.81,
+            "y": 0.305
+          },
+          {
+            "x": 0.788,
+            "y": 0.203
+          },
+          {
+            "x": 0.778,
+            "y": 0.175
+          },
+          {
+            "x": 0.771,
+            "y": 0.172
+          },
+          {
+            "x": 0.689,
+            "y": 0.171
+          },
+          {
+            "x": 0.654,
+            "y": 0.209
+          },
+          {
+            "x": 0.625,
+            "y": 0.288
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.718,
+        "y": 0.258
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "left_gluteus_medius_muscle": {
+      "display_name": "Left Gluteus Medius Muscle",
+      "anatomical_name": "Left Gluteus Medius Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.315,
+            "y": 0.333
+          },
+          {
+            "x": 0.325,
+            "y": 0.317
+          },
+          {
+            "x": 0.355,
+            "y": 0.191
+          },
+          {
+            "x": 0.304,
+            "y": 0.173
+          },
+          {
+            "x": 0.291,
+            "y": 0.171
+          },
+          {
+            "x": 0.26,
+            "y": 0.17
+          },
+          {
+            "x": 0.099,
+            "y": 0.172
+          },
+          {
+            "x": 0.125,
+            "y": 0.284
+          },
+          {
+            "x": 0.145,
+            "y": 0.309
+          },
+          {
+            "x": 0.165,
+            "y": 0.329
+          },
+          {
+            "x": 0.201,
+            "y": 0.36
+          },
+          {
+            "x": 0.279,
+            "y": 0.36
+          },
+          {
+            "x": 0.313,
+            "y": 0.337
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.244,
+        "y": 0.27
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_psoas_muscle": {
+      "display_name": "Right Psoas Muscle",
+      "anatomical_name": "Right Psoas Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.692,
+            "y": 0.186
+          },
+          {
+            "x": 0.676,
+            "y": 0.305
+          },
+          {
+            "x": 0.602,
+            "y": 0.604
+          },
+          {
+            "x": 0.575,
+            "y": 0.633
+          },
+          {
+            "x": 0.558,
+            "y": 0.633
+          },
+          {
+            "x": 0.542,
+            "y": 0.577
+          },
+          {
+            "x": 0.535,
+            "y": 0.524
+          },
+          {
+            "x": 0.542,
+            "y": 0.453
+          },
+          {
+            "x": 0.564,
+            "y": 0.383
+          },
+          {
+            "x": 0.651,
+            "y": 0.178
+          },
+          {
+            "x": 0.684,
+            "y": 0.171
+          },
+          {
+            "x": 0.691,
+            "y": 0.184
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.609,
+        "y": 0.403
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    },
+    "right_gluteus_medius_muscle": {
+      "display_name": "Right Gluteus Medius Muscle",
+      "anatomical_name": "Right Gluteus Medius Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.738,
+            "y": 0.361
+          },
+          {
+            "x": 0.714,
+            "y": 0.359
+          },
+          {
+            "x": 0.673,
+            "y": 0.324
+          },
+          {
+            "x": 0.659,
+            "y": 0.191
+          },
+          {
+            "x": 0.669,
+            "y": 0.172
+          },
+          {
+            "x": 0.703,
+            "y": 0.17
+          },
+          {
+            "x": 0.876,
+            "y": 0.171
+          },
+          {
+            "x": 0.907,
+            "y": 0.173
+          },
+          {
+            "x": 0.904,
+            "y": 0.212
+          },
+          {
+            "x": 0.9,
+            "y": 0.232
+          },
+          {
+            "x": 0.879,
+            "y": 0.293
+          },
+          {
+            "x": 0.862,
+            "y": 0.313
+          },
+          {
+            "x": 0.817,
+            "y": 0.36
+          },
+          {
+            "x": 0.79,
+            "y": 0.361
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.792,
+        "y": 0.264
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(230,124,124)"
+    }
+  }
+}

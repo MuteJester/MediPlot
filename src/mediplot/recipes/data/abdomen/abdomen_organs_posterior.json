@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "abdomen_organs_posterior",
+  "display_name": "Abdomen Abdominal Organs (Posterior View)",
+  "description": "Head and neck anatomy with labeled structures (posterior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "posterior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.095,
+        "y": 0.573
+      },
+      {
+        "x": 0.093,
+        "y": 0.479
+      },
+      {
+        "x": 0.1,
+        "y": 0.467
+      },
+      {
+        "x": 0.418,
+        "y": 0.367
+      },
+      {
+        "x": 0.726,
+        "y": 0.367
+      },
+      {
+        "x": 0.896,
+        "y": 0.422
+      },
+      {
+        "x": 0.909,
+        "y": 0.489
+      },
+      {
+        "x": 0.901,
+        "y": 0.525
+      },
+      {
+        "x": 0.836,
+        "y": 0.594
+      },
+      {
+        "x": 0.719,
+        "y": 0.63
+      },
+      {
+        "x": 0.227,
+        "y": 0.636
+      },
+      {
+        "x": 0.19,
+        "y": 0.631
+      },
+      {
+        "x": 0.112,
+        "y": 0.588
+      }
+    ]
+  },
+  "regions": {
+    "spleen": {
+      "display_name": "Spleen",
+      "anatomical_name": "Spleen",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.093,
+            "y": 0.479
+          },
+          {
+            "x": 0.095,
+            "y": 0.573
+          },
+          {
+            "x": 0.112,
+            "y": 0.588
+          },
+          {
+            "x": 0.19,
+            "y": 0.631
+          },
+          {
+            "x": 0.227,
+            "y": 0.636
+          },
+          {
+            "x": 0.719,
+            "y": 0.63
+          },
+          {
+            "x": 0.836,
+            "y": 0.594
+          },
+          {
+            "x": 0.901,
+            "y": 0.525
+          },
+          {
+            "x": 0.909,
+            "y": 0.489
+          },
+          {
+            "x": 0.896,
+            "y": 0.422
+          },
+          {
+            "x": 0.726,
+            "y": 0.367
+          },
+          {
+            "x": 0.418,
+            "y": 0.367
+          },
+          {
+            "x": 0.1,
+            "y": 0.467
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.479,
+        "y": 0.521
+      },
+      "z_order": 5,
+      "groups": [
+        "Abdominal Organs"
+      ],
+      "default_color": "rgb(140,100,160)"
+    }
+  }
+}

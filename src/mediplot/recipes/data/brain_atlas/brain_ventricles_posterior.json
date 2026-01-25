@@ -1,0 +1,319 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_ventricles_posterior",
+  "display_name": "Brain Ventricles (Posterior View)",
+  "description": "Head and neck anatomy with labeled structures (posterior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "posterior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.652,
+        "y": 0.794
+      },
+      {
+        "x": 0.626,
+        "y": 0.798
+      },
+      {
+        "x": 0.331,
+        "y": 0.763
+      },
+      {
+        "x": 0.296,
+        "y": 0.742
+      },
+      {
+        "x": 0.131,
+        "y": 0.489
+      },
+      {
+        "x": 0.092,
+        "y": 0.321
+      },
+      {
+        "x": 0.093,
+        "y": 0.221
+      },
+      {
+        "x": 0.111,
+        "y": 0.205
+      },
+      {
+        "x": 0.148,
+        "y": 0.201
+      },
+      {
+        "x": 0.836,
+        "y": 0.216
+      },
+      {
+        "x": 0.853,
+        "y": 0.217
+      },
+      {
+        "x": 0.88,
+        "y": 0.239
+      },
+      {
+        "x": 0.909,
+        "y": 0.301
+      },
+      {
+        "x": 0.697,
+        "y": 0.711
+      }
+    ]
+  },
+  "regions": {
+    "left_lateral_ventricle": {
+      "display_name": "Left Lateral Ventricle",
+      "anatomical_name": "Left Lateral Ventricle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.504,
+            "y": 0.728
+          },
+          {
+            "x": 0.505,
+            "y": 0.629
+          },
+          {
+            "x": 0.528,
+            "y": 0.552
+          },
+          {
+            "x": 0.696,
+            "y": 0.299
+          },
+          {
+            "x": 0.761,
+            "y": 0.288
+          },
+          {
+            "x": 0.865,
+            "y": 0.335
+          },
+          {
+            "x": 0.697,
+            "y": 0.711
+          },
+          {
+            "x": 0.652,
+            "y": 0.794
+          },
+          {
+            "x": 0.626,
+            "y": 0.798
+          },
+          {
+            "x": 0.51,
+            "y": 0.734
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.634,
+        "y": 0.587
+      },
+      "z_order": 5,
+      "groups": [
+        "left lateral ventricle"
+      ],
+      "default_color": "rgb(89,105,214)"
+    },
+    "right_lateral_ventricle": {
+      "display_name": "Right Lateral Ventricle",
+      "anatomical_name": "Right Lateral Ventricle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.1,
+            "y": 0.296
+          },
+          {
+            "x": 0.092,
+            "y": 0.321
+          },
+          {
+            "x": 0.131,
+            "y": 0.489
+          },
+          {
+            "x": 0.296,
+            "y": 0.742
+          },
+          {
+            "x": 0.331,
+            "y": 0.763
+          },
+          {
+            "x": 0.369,
+            "y": 0.764
+          },
+          {
+            "x": 0.477,
+            "y": 0.737
+          },
+          {
+            "x": 0.495,
+            "y": 0.631
+          },
+          {
+            "x": 0.473,
+            "y": 0.543
+          },
+          {
+            "x": 0.255,
+            "y": 0.303
+          },
+          {
+            "x": 0.11,
+            "y": 0.291
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.284,
+        "y": 0.534
+      },
+      "z_order": 5,
+      "groups": [
+        "right lateral ventricle"
+      ],
+      "default_color": "rgb(89,105,214)"
+    },
+    "temporal_horn_of_left_lateral_ventricle": {
+      "display_name": "Temporal Horn Of Left Lateral Ventricle",
+      "anatomical_name": "Temporal Horn Of Left Lateral Ventricle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.777,
+            "y": 0.427
+          },
+          {
+            "x": 0.759,
+            "y": 0.418
+          },
+          {
+            "x": 0.689,
+            "y": 0.314
+          },
+          {
+            "x": 0.765,
+            "y": 0.241
+          },
+          {
+            "x": 0.836,
+            "y": 0.216
+          },
+          {
+            "x": 0.853,
+            "y": 0.217
+          },
+          {
+            "x": 0.88,
+            "y": 0.239
+          },
+          {
+            "x": 0.909,
+            "y": 0.301
+          },
+          {
+            "x": 0.862,
+            "y": 0.37
+          },
+          {
+            "x": 0.787,
+            "y": 0.427
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.812,
+        "y": 0.317
+      },
+      "z_order": 5,
+      "groups": [
+        "left lateral ventricle"
+      ],
+      "default_color": "rgb(89,105,214)"
+    },
+    "temporal_horn_of_right_lateral_ventricle": {
+      "display_name": "Temporal Horn Of Right Lateral Ventricle",
+      "anatomical_name": "Temporal Horn Of Right Lateral Ventricle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.284,
+            "y": 0.336
+          },
+          {
+            "x": 0.263,
+            "y": 0.355
+          },
+          {
+            "x": 0.166,
+            "y": 0.401
+          },
+          {
+            "x": 0.157,
+            "y": 0.402
+          },
+          {
+            "x": 0.149,
+            "y": 0.4
+          },
+          {
+            "x": 0.142,
+            "y": 0.393
+          },
+          {
+            "x": 0.094,
+            "y": 0.324
+          },
+          {
+            "x": 0.093,
+            "y": 0.221
+          },
+          {
+            "x": 0.111,
+            "y": 0.205
+          },
+          {
+            "x": 0.148,
+            "y": 0.201
+          },
+          {
+            "x": 0.282,
+            "y": 0.309
+          },
+          {
+            "x": 0.291,
+            "y": 0.326
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.182,
+        "y": 0.323
+      },
+      "z_order": 5,
+      "groups": [
+        "right lateral ventricle"
+      ],
+      "default_color": "rgb(89,105,214)"
+    }
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_basal_ganglia_lateral_left",
+  "display_name": "Brain Basal Ganglia (Left Lateral View)",
+  "description": "Head and neck anatomy with labeled structures (lateral left view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "lateral_left"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.215,
+        "y": 0.68
+      },
+      {
+        "x": 0.091,
+        "y": 0.552
+      },
+      {
+        "x": 0.117,
+        "y": 0.476
+      },
+      {
+        "x": 0.211,
+        "y": 0.39
+      },
+      {
+        "x": 0.473,
+        "y": 0.26
+      },
+      {
+        "x": 0.476,
+        "y": 0.26
+      },
+      {
+        "x": 0.664,
+        "y": 0.317
+      },
+      {
+        "x": 0.732,
+        "y": 0.338
+      },
+      {
+        "x": 0.778,
+        "y": 0.364
+      },
+      {
+        "x": 0.809,
+        "y": 0.381
+      },
+      {
+        "x": 0.85,
+        "y": 0.417
+      },
+      {
+        "x": 0.882,
+        "y": 0.451
+      },
+      {
+        "x": 0.909,
+        "y": 0.482
+      },
+      {
+        "x": 0.894,
+        "y": 0.561
+      },
+      {
+        "x": 0.836,
+        "y": 0.674
+      },
+      {
+        "x": 0.786,
+        "y": 0.688
+      },
+      {
+        "x": 0.554,
+        "y": 0.74
+      },
+      {
+        "x": 0.356,
+        "y": 0.735
+      }
+    ]
+  },
+  "regions": {
+    "left_globus_pallidus_pars_externa": {
+      "display_name": "Left Globus Pallidus Pars Externa",
+      "anatomical_name": "Left Globus Pallidus Pars Externa",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.524,
+            "y": 0.531
+          },
+          {
+            "x": 0.593,
+            "y": 0.514
+          },
+          {
+            "x": 0.646,
+            "y": 0.48
+          },
+          {
+            "x": 0.671,
+            "y": 0.451
+          },
+          {
+            "x": 0.659,
+            "y": 0.432
+          },
+          {
+            "x": 0.566,
+            "y": 0.36
+          },
+          {
+            "x": 0.373,
+            "y": 0.332
+          },
+          {
+            "x": 0.294,
+            "y": 0.38
+          },
+          {
+            "x": 0.287,
+            "y": 0.402
+          },
+          {
+            "x": 0.291,
+            "y": 0.42
+          },
+          {
+            "x": 0.4,
+            "y": 0.524
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.482,
+        "y": 0.439
+      },
+      "z_order": 5,
+      "groups": [
+        "left globus pallidus"
+      ],
+      "default_color": "rgb(14,49,255)"
+    },
+    "right_nucleus_accumbens": {
+      "display_name": "Right Nucleus Accumbens",
+      "anatomical_name": "Right Nucleus Accumbens",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.765,
+            "y": 0.488
+          },
+          {
+            "x": 0.793,
+            "y": 0.489
+          },
+          {
+            "x": 0.833,
+            "y": 0.463
+          },
+          {
+            "x": 0.85,
+            "y": 0.417
+          },
+          {
+            "x": 0.809,
+            "y": 0.381
+          },
+          {
+            "x": 0.732,
+            "y": 0.338
+          },
+          {
+            "x": 0.682,
+            "y": 0.33
+          },
+          {
+            "x": 0.659,
+            "y": 0.344
+          },
+          {
+            "x": 0.655,
+            "y": 0.363
+          },
+          {
+            "x": 0.655,
+            "y": 0.399
+          },
+          {
+            "x": 0.656,
+            "y": 0.437
+          },
+          {
+            "x": 0.662,
+            "y": 0.458
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.729,
+        "y": 0.409
+      },
+      "z_order": 5,
+      "groups": [
+        "striatum of right cerebral hemisphere"
+      ],
+      "default_color": "rgb(255,165,0)"
+    },
+    "right_putamen": {
+      "display_name": "Right Putamen",
+      "anatomical_name": "Right Putamen",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.476,
+            "y": 0.26
+          },
+          {
+            "x": 0.778,
+            "y": 0.364
+          },
+          {
+            "x": 0.841,
+            "y": 0.411
+          },
+          {
+            "x": 0.856,
+            "y": 0.512
+          },
+          {
+            "x": 0.753,
+            "y": 0.572
+          },
+          {
+            "x": 0.658,
+            "y": 0.599
+          },
+          {
+            "x": 0.455,
+            "y": 0.596
+          },
+          {
+            "x": 0.318,
+            "y": 0.481
+          },
+          {
+            "x": 0.291,
+            "y": 0.413
+          },
+          {
+            "x": 0.302,
+            "y": 0.359
+          },
+          {
+            "x": 0.473,
+            "y": 0.26
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.564,
+        "y": 0.439
+      },
+      "z_order": 5,
+      "groups": [
+        "right lentiform nucleus"
+      ],
+      "default_color": "rgb(175,20,130)"
+    },
+    "left_nucleus_accumbens": {
+      "display_name": "Left Nucleus Accumbens",
+      "anatomical_name": "Left Nucleus Accumbens",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.785,
+            "y": 0.478
+          },
+          {
+            "x": 0.772,
+            "y": 0.49
+          },
+          {
+            "x": 0.767,
+            "y": 0.489
+          },
+          {
+            "x": 0.638,
+            "y": 0.453
+          },
+          {
+            "x": 0.629,
+            "y": 0.447
+          },
+          {
+            "x": 0.628,
+            "y": 0.347
+          },
+          {
+            "x": 0.638,
+            "y": 0.325
+          },
+          {
+            "x": 0.65,
+            "y": 0.317
+          },
+          {
+            "x": 0.664,
+            "y": 0.317
+          },
+          {
+            "x": 0.694,
+            "y": 0.329
+          },
+          {
+            "x": 0.794,
+            "y": 0.402
+          },
+          {
+            "x": 0.8,
+            "y": 0.43
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.705,
+        "y": 0.402
+      },
+      "z_order": 5,
+      "groups": [
+        "striatum of left cerebral hemisphere"
+      ],
+      "default_color": "rgb(165,0,255)"
+    },
+    "right_globus_pallidus_pars_interna": {
+      "display_name": "Right Globus Pallidus Pars Interna",
+      "anatomical_name": "Right Globus Pallidus Pars Interna",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.661,
+            "y": 0.466
+          },
+          {
+            "x": 0.604,
+            "y": 0.491
+          },
+          {
+            "x": 0.522,
+            "y": 0.492
+          },
+          {
+            "x": 0.394,
+            "y": 0.438
+          },
+          {
+            "x": 0.362,
+            "y": 0.391
+          },
+          {
+            "x": 0.363,
+            "y": 0.376
+          },
+          {
+            "x": 0.39,
+            "y": 0.346
+          },
+          {
+            "x": 0.542,
+            "y": 0.35
+          },
+          {
+            "x": 0.594,
+            "y": 0.372
+          },
+          {
+            "x": 0.663,
+            "y": 0.443
+          },
+          {
+            "x": 0.664,
+            "y": 0.459
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.524,
+        "y": 0.42
+      },
+      "z_order": 5,
+      "groups": [
+        "right globus pallidus"
+      ],
+      "default_color": "rgb(14,49,255)"
+    },
+    "left_putamen": {
+      "display_name": "Left Putamen",
+      "anatomical_name": "Left Putamen",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.799,
+            "y": 0.504
+          },
+          {
+            "x": 0.719,
+            "y": 0.579
+          },
+          {
+            "x": 0.682,
+            "y": 0.596
+          },
+          {
+            "x": 0.49,
+            "y": 0.625
+          },
+          {
+            "x": 0.394,
+            "y": 0.596
+          },
+          {
+            "x": 0.276,
+            "y": 0.511
+          },
+          {
+            "x": 0.211,
+            "y": 0.39
+          },
+          {
+            "x": 0.442,
+            "y": 0.286
+          },
+          {
+            "x": 0.683,
+            "y": 0.334
+          },
+          {
+            "x": 0.791,
+            "y": 0.413
+          },
+          {
+            "x": 0.8,
+            "y": 0.464
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.572,
+        "y": 0.482
+      },
+      "z_order": 5,
+      "groups": [
+        "left lentiform nucleus"
+      ],
+      "default_color": "rgb(175,20,130)"
+    },
+    "right_caudate_nucleus": {
+      "display_name": "Right Caudate Nucleus",
+      "anatomical_name": "Right Caudate Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.178,
+            "y": 0.48
+          },
+          {
+            "x": 0.175,
+            "y": 0.545
+          },
+          {
+            "x": 0.205,
+            "y": 0.619
+          },
+          {
+            "x": 0.297,
+            "y": 0.679
+          },
+          {
+            "x": 0.404,
+            "y": 0.703
+          },
+          {
+            "x": 0.658,
+            "y": 0.715
+          },
+          {
+            "x": 0.786,
+            "y": 0.688
+          },
+          {
+            "x": 0.821,
+            "y": 0.664
+          },
+          {
+            "x": 0.894,
+            "y": 0.561
+          },
+          {
+            "x": 0.909,
+            "y": 0.482
+          },
+          {
+            "x": 0.882,
+            "y": 0.451
+          },
+          {
+            "x": 0.583,
+            "y": 0.409
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.566,
+        "y": 0.583
+      },
+      "z_order": 5,
+      "groups": [
+        "striatum of right cerebral hemisphere"
+      ],
+      "default_color": "rgb(29,110,84)"
+    },
+    "right_globus_pallidus_pars_externa": {
+      "display_name": "Right Globus Pallidus Pars Externa",
+      "anatomical_name": "Right Globus Pallidus Pars Externa",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.342,
+            "y": 0.401
+          },
+          {
+            "x": 0.52,
+            "y": 0.529
+          },
+          {
+            "x": 0.63,
+            "y": 0.524
+          },
+          {
+            "x": 0.686,
+            "y": 0.441
+          },
+          {
+            "x": 0.667,
+            "y": 0.413
+          },
+          {
+            "x": 0.562,
+            "y": 0.343
+          },
+          {
+            "x": 0.367,
+            "y": 0.34
+          },
+          {
+            "x": 0.34,
+            "y": 0.396
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.514,
+        "y": 0.423
+      },
+      "z_order": 5,
+      "groups": [
+        "right globus pallidus"
+      ],
+      "default_color": "rgb(14,49,255)"
+    },
+    "left_globus_pallidus_pars_interna": {
+      "display_name": "Left Globus Pallidus Pars Interna",
+      "anatomical_name": "Left Globus Pallidus Pars Interna",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.323,
+            "y": 0.38
+          },
+          {
+            "x": 0.341,
+            "y": 0.428
+          },
+          {
+            "x": 0.51,
+            "y": 0.499
+          },
+          {
+            "x": 0.555,
+            "y": 0.502
+          },
+          {
+            "x": 0.594,
+            "y": 0.479
+          },
+          {
+            "x": 0.613,
+            "y": 0.461
+          },
+          {
+            "x": 0.631,
+            "y": 0.426
+          },
+          {
+            "x": 0.584,
+            "y": 0.375
+          },
+          {
+            "x": 0.569,
+            "y": 0.367
+          },
+          {
+            "x": 0.462,
+            "y": 0.337
+          },
+          {
+            "x": 0.386,
+            "y": 0.328
+          },
+          {
+            "x": 0.325,
+            "y": 0.366
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.491,
+        "y": 0.412
+      },
+      "z_order": 5,
+      "groups": [
+        "left globus pallidus"
+      ],
+      "default_color": "rgb(255,165,0)"
+    },
+    "left_caudate_nucleus": {
+      "display_name": "Left Caudate Nucleus",
+      "anatomical_name": "Left Caudate Nucleus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.881,
+            "y": 0.49
+          },
+          {
+            "x": 0.829,
+            "y": 0.443
+          },
+          {
+            "x": 0.584,
+            "y": 0.407
+          },
+          {
+            "x": 0.117,
+            "y": 0.476
+          },
+          {
+            "x": 0.091,
+            "y": 0.552
+          },
+          {
+            "x": 0.215,
+            "y": 0.68
+          },
+          {
+            "x": 0.356,
+            "y": 0.735
+          },
+          {
+            "x": 0.554,
+            "y": 0.74
+          },
+          {
+            "x": 0.836,
+            "y": 0.674
+          },
+          {
+            "x": 0.882,
+            "y": 0.509
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.535,
+        "y": 0.571
+      },
+      "z_order": 5,
+      "groups": [
+        "striatum of left cerebral hemisphere"
+      ],
+      "default_color": "rgb(29,110,84)"
+    }
+  }
+}

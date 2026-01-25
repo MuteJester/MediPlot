@@ -1,0 +1,1099 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "head_neck_muscles_posterior",
+  "display_name": "Head and Neck Muscles (Posterior View)",
+  "description": "Head and neck anatomy with labeled structures (posterior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "posterior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.751,
+        "y": 0.841
+      },
+      {
+        "x": 0.278,
+        "y": 0.883
+      },
+      {
+        "x": 0.278,
+        "y": 0.883
+      },
+      {
+        "x": 0.091,
+        "y": 0.324
+      },
+      {
+        "x": 0.19,
+        "y": 0.268
+      },
+      {
+        "x": 0.469,
+        "y": 0.121
+      },
+      {
+        "x": 0.48,
+        "y": 0.118
+      },
+      {
+        "x": 0.564,
+        "y": 0.123
+      },
+      {
+        "x": 0.908,
+        "y": 0.322
+      },
+      {
+        "x": 0.909,
+        "y": 0.325
+      },
+      {
+        "x": 0.755,
+        "y": 0.836
+      }
+    ]
+  },
+  "regions": {
+    "left_scalenius_muscle": {
+      "display_name": "Left Scalenius Muscle",
+      "anatomical_name": "Left Scalenius Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.722,
+            "y": 0.266
+          },
+          {
+            "x": 0.72,
+            "y": 0.262
+          },
+          {
+            "x": 0.714,
+            "y": 0.262
+          },
+          {
+            "x": 0.698,
+            "y": 0.269
+          },
+          {
+            "x": 0.643,
+            "y": 0.322
+          },
+          {
+            "x": 0.63,
+            "y": 0.34
+          },
+          {
+            "x": 0.629,
+            "y": 0.351
+          },
+          {
+            "x": 0.632,
+            "y": 0.363
+          },
+          {
+            "x": 0.641,
+            "y": 0.371
+          },
+          {
+            "x": 0.653,
+            "y": 0.372
+          },
+          {
+            "x": 0.666,
+            "y": 0.365
+          },
+          {
+            "x": 0.705,
+            "y": 0.309
+          },
+          {
+            "x": 0.716,
+            "y": 0.287
+          },
+          {
+            "x": 0.722,
+            "y": 0.267
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.678,
+        "y": 0.315
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(149,140,170)"
+    },
+    "left_zygomatic_muscle": {
+      "display_name": "Left Zygomatic Muscle",
+      "anatomical_name": "Left Zygomatic Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.63,
+            "y": 0.474
+          },
+          {
+            "x": 0.609,
+            "y": 0.463
+          },
+          {
+            "x": 0.602,
+            "y": 0.463
+          },
+          {
+            "x": 0.597,
+            "y": 0.466
+          },
+          {
+            "x": 0.596,
+            "y": 0.478
+          },
+          {
+            "x": 0.597,
+            "y": 0.496
+          },
+          {
+            "x": 0.606,
+            "y": 0.559
+          },
+          {
+            "x": 0.619,
+            "y": 0.553
+          },
+          {
+            "x": 0.63,
+            "y": 0.538
+          },
+          {
+            "x": 0.634,
+            "y": 0.528
+          },
+          {
+            "x": 0.635,
+            "y": 0.519
+          },
+          {
+            "x": 0.636,
+            "y": 0.484
+          },
+          {
+            "x": 0.631,
+            "y": 0.475
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.617,
+        "y": 0.5
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(200,167,200)"
+    },
+    "right_masseter_muscle": {
+      "display_name": "Right Masseter Muscle",
+      "anatomical_name": "Right Masseter Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.341,
+            "y": 0.489
+          },
+          {
+            "x": 0.337,
+            "y": 0.47
+          },
+          {
+            "x": 0.312,
+            "y": 0.451
+          },
+          {
+            "x": 0.305,
+            "y": 0.46
+          },
+          {
+            "x": 0.296,
+            "y": 0.481
+          },
+          {
+            "x": 0.291,
+            "y": 0.508
+          },
+          {
+            "x": 0.29,
+            "y": 0.544
+          },
+          {
+            "x": 0.302,
+            "y": 0.611
+          },
+          {
+            "x": 0.308,
+            "y": 0.624
+          },
+          {
+            "x": 0.312,
+            "y": 0.626
+          },
+          {
+            "x": 0.32,
+            "y": 0.626
+          },
+          {
+            "x": 0.342,
+            "y": 0.581
+          },
+          {
+            "x": 0.344,
+            "y": 0.558
+          },
+          {
+            "x": 0.344,
+            "y": 0.502
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.317,
+        "y": 0.538
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(191,202,79)"
+    },
+    "right_scalenius_muscle": {
+      "display_name": "Right Scalenius Muscle",
+      "anatomical_name": "Right Scalenius Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.396,
+            "y": 0.36
+          },
+          {
+            "x": 0.389,
+            "y": 0.326
+          },
+          {
+            "x": 0.38,
+            "y": 0.305
+          },
+          {
+            "x": 0.357,
+            "y": 0.262
+          },
+          {
+            "x": 0.351,
+            "y": 0.257
+          },
+          {
+            "x": 0.343,
+            "y": 0.257
+          },
+          {
+            "x": 0.335,
+            "y": 0.259
+          },
+          {
+            "x": 0.328,
+            "y": 0.265
+          },
+          {
+            "x": 0.331,
+            "y": 0.284
+          },
+          {
+            "x": 0.335,
+            "y": 0.299
+          },
+          {
+            "x": 0.366,
+            "y": 0.362
+          },
+          {
+            "x": 0.372,
+            "y": 0.368
+          },
+          {
+            "x": 0.376,
+            "y": 0.371
+          },
+          {
+            "x": 0.385,
+            "y": 0.371
+          },
+          {
+            "x": 0.391,
+            "y": 0.367
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.362,
+        "y": 0.314
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(98,33,230)"
+    },
+    "left_masseter_muscle": {
+      "display_name": "Left Masseter Muscle",
+      "anatomical_name": "Left Masseter Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.674,
+            "y": 0.448
+          },
+          {
+            "x": 0.683,
+            "y": 0.448
+          },
+          {
+            "x": 0.694,
+            "y": 0.454
+          },
+          {
+            "x": 0.7,
+            "y": 0.463
+          },
+          {
+            "x": 0.704,
+            "y": 0.479
+          },
+          {
+            "x": 0.709,
+            "y": 0.597
+          },
+          {
+            "x": 0.708,
+            "y": 0.627
+          },
+          {
+            "x": 0.704,
+            "y": 0.64
+          },
+          {
+            "x": 0.695,
+            "y": 0.637
+          },
+          {
+            "x": 0.692,
+            "y": 0.633
+          },
+          {
+            "x": 0.661,
+            "y": 0.554
+          },
+          {
+            "x": 0.653,
+            "y": 0.515
+          },
+          {
+            "x": 0.651,
+            "y": 0.479
+          },
+          {
+            "x": 0.661,
+            "y": 0.454
+          },
+          {
+            "x": 0.671,
+            "y": 0.449
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.684,
+        "y": 0.525
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(218,235,31)"
+    },
+    "right_sternocleidomastoideus_muscle": {
+      "display_name": "Right Sternocleidomastoideus Muscle",
+      "anatomical_name": "Right Sternocleidomastoideus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.373,
+            "y": 0.461
+          },
+          {
+            "x": 0.425,
+            "y": 0.328
+          },
+          {
+            "x": 0.46,
+            "y": 0.23
+          },
+          {
+            "x": 0.485,
+            "y": 0.124
+          },
+          {
+            "x": 0.484,
+            "y": 0.119
+          },
+          {
+            "x": 0.48,
+            "y": 0.118
+          },
+          {
+            "x": 0.469,
+            "y": 0.121
+          },
+          {
+            "x": 0.348,
+            "y": 0.241
+          },
+          {
+            "x": 0.311,
+            "y": 0.449
+          },
+          {
+            "x": 0.303,
+            "y": 0.519
+          },
+          {
+            "x": 0.306,
+            "y": 0.533
+          },
+          {
+            "x": 0.319,
+            "y": 0.535
+          },
+          {
+            "x": 0.337,
+            "y": 0.527
+          },
+          {
+            "x": 0.348,
+            "y": 0.51
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.389,
+        "y": 0.344
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(54,140,43)"
+    },
+    "left_sternocleidomastoideus_muscle": {
+      "display_name": "Left Sternocleidomastoideus Muscle",
+      "anatomical_name": "Left Sternocleidomastoideus Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.716,
+            "y": 0.604
+          },
+          {
+            "x": 0.709,
+            "y": 0.497
+          },
+          {
+            "x": 0.678,
+            "y": 0.286
+          },
+          {
+            "x": 0.573,
+            "y": 0.134
+          },
+          {
+            "x": 0.564,
+            "y": 0.123
+          },
+          {
+            "x": 0.553,
+            "y": 0.124
+          },
+          {
+            "x": 0.55,
+            "y": 0.127
+          },
+          {
+            "x": 0.569,
+            "y": 0.227
+          },
+          {
+            "x": 0.614,
+            "y": 0.418
+          },
+          {
+            "x": 0.635,
+            "y": 0.48
+          },
+          {
+            "x": 0.693,
+            "y": 0.601
+          },
+          {
+            "x": 0.697,
+            "y": 0.609
+          },
+          {
+            "x": 0.705,
+            "y": 0.61
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.635,
+        "y": 0.372
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(135,225,87)"
+    },
+    "left_levator_scapulae_muscle": {
+      "display_name": "Left Levator Scapulae Muscle",
+      "anatomical_name": "Left Levator Scapulae Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.713,
+            "y": 0.293
+          },
+          {
+            "x": 0.701,
+            "y": 0.284
+          },
+          {
+            "x": 0.681,
+            "y": 0.281
+          },
+          {
+            "x": 0.656,
+            "y": 0.282
+          },
+          {
+            "x": 0.644,
+            "y": 0.29
+          },
+          {
+            "x": 0.634,
+            "y": 0.318
+          },
+          {
+            "x": 0.626,
+            "y": 0.375
+          },
+          {
+            "x": 0.627,
+            "y": 0.402
+          },
+          {
+            "x": 0.632,
+            "y": 0.408
+          },
+          {
+            "x": 0.645,
+            "y": 0.412
+          },
+          {
+            "x": 0.663,
+            "y": 0.411
+          },
+          {
+            "x": 0.672,
+            "y": 0.405
+          },
+          {
+            "x": 0.706,
+            "y": 0.337
+          },
+          {
+            "x": 0.714,
+            "y": 0.294
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.665,
+        "y": 0.342
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(117,140,165)"
+    },
+    "right_zygomatic_muscle": {
+      "display_name": "Right Zygomatic Muscle",
+      "anatomical_name": "Right Zygomatic Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.376,
+            "y": 0.564
+          },
+          {
+            "x": 0.369,
+            "y": 0.561
+          },
+          {
+            "x": 0.364,
+            "y": 0.552
+          },
+          {
+            "x": 0.355,
+            "y": 0.52
+          },
+          {
+            "x": 0.354,
+            "y": 0.489
+          },
+          {
+            "x": 0.356,
+            "y": 0.461
+          },
+          {
+            "x": 0.362,
+            "y": 0.46
+          },
+          {
+            "x": 0.37,
+            "y": 0.463
+          },
+          {
+            "x": 0.387,
+            "y": 0.475
+          },
+          {
+            "x": 0.397,
+            "y": 0.507
+          },
+          {
+            "x": 0.397,
+            "y": 0.528
+          },
+          {
+            "x": 0.391,
+            "y": 0.557
+          },
+          {
+            "x": 0.379,
+            "y": 0.564
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.374,
+        "y": 0.515
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(170,56,165)"
+    },
+    "right_temporalis_muscle": {
+      "display_name": "Right Temporalis Muscle",
+      "anatomical_name": "Right Temporalis Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.278,
+            "y": 0.883
+          },
+          {
+            "x": 0.342,
+            "y": 0.785
+          },
+          {
+            "x": 0.359,
+            "y": 0.749
+          },
+          {
+            "x": 0.362,
+            "y": 0.742
+          },
+          {
+            "x": 0.365,
+            "y": 0.733
+          },
+          {
+            "x": 0.379,
+            "y": 0.67
+          },
+          {
+            "x": 0.372,
+            "y": 0.656
+          },
+          {
+            "x": 0.348,
+            "y": 0.623
+          },
+          {
+            "x": 0.347,
+            "y": 0.621
+          },
+          {
+            "x": 0.343,
+            "y": 0.618
+          },
+          {
+            "x": 0.341,
+            "y": 0.617
+          },
+          {
+            "x": 0.34,
+            "y": 0.617
+          },
+          {
+            "x": 0.335,
+            "y": 0.626
+          },
+          {
+            "x": 0.334,
+            "y": 0.629
+          },
+          {
+            "x": 0.278,
+            "y": 0.883
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.341,
+        "y": 0.697
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(165,84,93)"
+    },
+    "left_trapezius_muscle": {
+      "display_name": "Left Trapezius Muscle",
+      "anatomical_name": "Left Trapezius Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.575,
+            "y": 0.415
+          },
+          {
+            "x": 0.576,
+            "y": 0.423
+          },
+          {
+            "x": 0.59,
+            "y": 0.436
+          },
+          {
+            "x": 0.62,
+            "y": 0.442
+          },
+          {
+            "x": 0.66,
+            "y": 0.44
+          },
+          {
+            "x": 0.886,
+            "y": 0.346
+          },
+          {
+            "x": 0.902,
+            "y": 0.336
+          },
+          {
+            "x": 0.909,
+            "y": 0.325
+          },
+          {
+            "x": 0.908,
+            "y": 0.322
+          },
+          {
+            "x": 0.799,
+            "y": 0.269
+          },
+          {
+            "x": 0.778,
+            "y": 0.262
+          },
+          {
+            "x": 0.707,
+            "y": 0.246
+          },
+          {
+            "x": 0.627,
+            "y": 0.239
+          },
+          {
+            "x": 0.589,
+            "y": 0.241
+          },
+          {
+            "x": 0.575,
+            "y": 0.412
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.713,
+        "y": 0.344
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(237,163,4)"
+    },
+    "right_trapezius_muscle": {
+      "display_name": "Right Trapezius Muscle",
+      "anatomical_name": "Right Trapezius Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.091,
+            "y": 0.324
+          },
+          {
+            "x": 0.19,
+            "y": 0.268
+          },
+          {
+            "x": 0.352,
+            "y": 0.21
+          },
+          {
+            "x": 0.398,
+            "y": 0.208
+          },
+          {
+            "x": 0.448,
+            "y": 0.208
+          },
+          {
+            "x": 0.461,
+            "y": 0.21
+          },
+          {
+            "x": 0.47,
+            "y": 0.217
+          },
+          {
+            "x": 0.439,
+            "y": 0.456
+          },
+          {
+            "x": 0.438,
+            "y": 0.459
+          },
+          {
+            "x": 0.435,
+            "y": 0.461
+          },
+          {
+            "x": 0.419,
+            "y": 0.462
+          },
+          {
+            "x": 0.382,
+            "y": 0.461
+          },
+          {
+            "x": 0.104,
+            "y": 0.337
+          },
+          {
+            "x": 0.097,
+            "y": 0.332
+          },
+          {
+            "x": 0.093,
+            "y": 0.328
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.321,
+        "y": 0.329
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(212,186,131)"
+    },
+    "right_levator_scapulae_muscle": {
+      "display_name": "Right Levator Scapulae Muscle",
+      "anatomical_name": "Right Levator Scapulae Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.379,
+            "y": 0.396
+          },
+          {
+            "x": 0.392,
+            "y": 0.387
+          },
+          {
+            "x": 0.407,
+            "y": 0.31
+          },
+          {
+            "x": 0.406,
+            "y": 0.28
+          },
+          {
+            "x": 0.396,
+            "y": 0.246
+          },
+          {
+            "x": 0.384,
+            "y": 0.233
+          },
+          {
+            "x": 0.37,
+            "y": 0.23
+          },
+          {
+            "x": 0.356,
+            "y": 0.239
+          },
+          {
+            "x": 0.332,
+            "y": 0.286
+          },
+          {
+            "x": 0.336,
+            "y": 0.333
+          },
+          {
+            "x": 0.353,
+            "y": 0.386
+          },
+          {
+            "x": 0.362,
+            "y": 0.395
+          },
+          {
+            "x": 0.376,
+            "y": 0.397
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.373,
+        "y": 0.317
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(33,123,230)"
+    },
+    "left_temporalis_muscle": {
+      "display_name": "Left Temporalis Muscle",
+      "anatomical_name": "Left Temporalis Muscle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.634,
+            "y": 0.621
+          },
+          {
+            "x": 0.662,
+            "y": 0.6
+          },
+          {
+            "x": 0.672,
+            "y": 0.605
+          },
+          {
+            "x": 0.681,
+            "y": 0.618
+          },
+          {
+            "x": 0.695,
+            "y": 0.647
+          },
+          {
+            "x": 0.755,
+            "y": 0.796
+          },
+          {
+            "x": 0.759,
+            "y": 0.821
+          },
+          {
+            "x": 0.755,
+            "y": 0.836
+          },
+          {
+            "x": 0.751,
+            "y": 0.841
+          },
+          {
+            "x": 0.663,
+            "y": 0.718
+          },
+          {
+            "x": 0.633,
+            "y": 0.652
+          },
+          {
+            "x": 0.631,
+            "y": 0.633
+          },
+          {
+            "x": 0.633,
+            "y": 0.622
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.687,
+        "y": 0.693
+      },
+      "z_order": 5,
+      "groups": [
+        "Muscles"
+      ],
+      "default_color": "rgb(188,65,28)"
+    }
+  }
+}

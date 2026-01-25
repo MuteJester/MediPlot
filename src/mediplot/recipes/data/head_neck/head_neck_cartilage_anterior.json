@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "head_neck_cartilage_anterior",
+  "display_name": "Head and Neck Cartilage (Anterior View)",
+  "description": "Head and neck anatomy with labeled structures (anterior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "anterior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.766,
+        "y": 0.837
+      },
+      {
+        "x": 0.239,
+        "y": 0.907
+      },
+      {
+        "x": 0.158,
+        "y": 0.819
+      },
+      {
+        "x": 0.147,
+        "y": 0.693
+      },
+      {
+        "x": 0.18,
+        "y": 0.372
+      },
+      {
+        "x": 0.187,
+        "y": 0.339
+      },
+      {
+        "x": 0.263,
+        "y": 0.146
+      },
+      {
+        "x": 0.289,
+        "y": 0.115
+      },
+      {
+        "x": 0.334,
+        "y": 0.095
+      },
+      {
+        "x": 0.551,
+        "y": 0.098
+      },
+      {
+        "x": 0.65,
+        "y": 0.15
+      },
+      {
+        "x": 0.679,
+        "y": 0.188
+      },
+      {
+        "x": 0.854,
+        "y": 0.592
+      },
+      {
+        "x": 0.8,
+        "y": 0.793
+      },
+      {
+        "x": 0.785,
+        "y": 0.825
+      }
+    ]
+  },
+  "regions": {
+    "cricoid_cartilage": {
+      "display_name": "Cricoid Cartilage",
+      "anatomical_name": "Cricoid Cartilage",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.686,
+            "y": 0.215
+          },
+          {
+            "x": 0.679,
+            "y": 0.188
+          },
+          {
+            "x": 0.65,
+            "y": 0.15
+          },
+          {
+            "x": 0.551,
+            "y": 0.098
+          },
+          {
+            "x": 0.334,
+            "y": 0.095
+          },
+          {
+            "x": 0.289,
+            "y": 0.115
+          },
+          {
+            "x": 0.263,
+            "y": 0.146
+          },
+          {
+            "x": 0.246,
+            "y": 0.206
+          },
+          {
+            "x": 0.243,
+            "y": 0.276
+          },
+          {
+            "x": 0.277,
+            "y": 0.402
+          },
+          {
+            "x": 0.289,
+            "y": 0.42
+          },
+          {
+            "x": 0.316,
+            "y": 0.422
+          },
+          {
+            "x": 0.623,
+            "y": 0.383
+          },
+          {
+            "x": 0.67,
+            "y": 0.318
+          },
+          {
+            "x": 0.687,
+            "y": 0.229
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.454,
+        "y": 0.244
+      },
+      "z_order": 5,
+      "groups": [
+        "Cartilage"
+      ],
+      "default_color": "rgb(225,225,225)"
+    },
+    "thyroid_cartilage": {
+      "display_name": "Thyroid Cartilage",
+      "anatomical_name": "Thyroid Cartilage",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.714,
+            "y": 0.302
+          },
+          {
+            "x": 0.854,
+            "y": 0.592
+          },
+          {
+            "x": 0.8,
+            "y": 0.793
+          },
+          {
+            "x": 0.785,
+            "y": 0.825
+          },
+          {
+            "x": 0.766,
+            "y": 0.837
+          },
+          {
+            "x": 0.239,
+            "y": 0.907
+          },
+          {
+            "x": 0.158,
+            "y": 0.819
+          },
+          {
+            "x": 0.147,
+            "y": 0.693
+          },
+          {
+            "x": 0.18,
+            "y": 0.372
+          },
+          {
+            "x": 0.187,
+            "y": 0.339
+          },
+          {
+            "x": 0.207,
+            "y": 0.309
+          },
+          {
+            "x": 0.211,
+            "y": 0.305
+          },
+          {
+            "x": 0.697,
+            "y": 0.296
+          },
+          {
+            "x": 0.713,
+            "y": 0.301
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.476,
+        "y": 0.549
+      },
+      "z_order": 5,
+      "groups": [
+        "Cartilage"
+      ],
+      "default_color": "rgb(177,177,177)"
+    }
+  }
+}

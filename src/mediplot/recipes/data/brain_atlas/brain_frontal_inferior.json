@@ -1,0 +1,1457 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_frontal_inferior",
+  "display_name": "Brain Frontal Lobes (Inferior View)",
+  "description": "Head and neck anatomy with labeled structures (inferior view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "inferior"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.244,
+        "y": 0.904
+      },
+      {
+        "x": 0.16,
+        "y": 0.579
+      },
+      {
+        "x": 0.155,
+        "y": 0.489
+      },
+      {
+        "x": 0.155,
+        "y": 0.485
+      },
+      {
+        "x": 0.256,
+        "y": 0.278
+      },
+      {
+        "x": 0.284,
+        "y": 0.232
+      },
+      {
+        "x": 0.336,
+        "y": 0.15
+      },
+      {
+        "x": 0.38,
+        "y": 0.11
+      },
+      {
+        "x": 0.425,
+        "y": 0.102
+      },
+      {
+        "x": 0.523,
+        "y": 0.091
+      },
+      {
+        "x": 0.54,
+        "y": 0.102
+      },
+      {
+        "x": 0.711,
+        "y": 0.236
+      },
+      {
+        "x": 0.714,
+        "y": 0.24
+      },
+      {
+        "x": 0.818,
+        "y": 0.41
+      },
+      {
+        "x": 0.844,
+        "y": 0.475
+      },
+      {
+        "x": 0.844,
+        "y": 0.511
+      },
+      {
+        "x": 0.829,
+        "y": 0.559
+      },
+      {
+        "x": 0.758,
+        "y": 0.69
+      },
+      {
+        "x": 0.567,
+        "y": 0.842
+      },
+      {
+        "x": 0.456,
+        "y": 0.909
+      },
+      {
+        "x": 0.249,
+        "y": 0.907
+      }
+    ]
+  },
+  "regions": {
+    "right_central_sulcus": {
+      "display_name": "Right Central Sulcus",
+      "anatomical_name": "Right Central Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.559,
+            "y": 0.773
+          },
+          {
+            "x": 0.559,
+            "y": 0.766
+          },
+          {
+            "x": 0.689,
+            "y": 0.602
+          },
+          {
+            "x": 0.768,
+            "y": 0.535
+          },
+          {
+            "x": 0.804,
+            "y": 0.508
+          },
+          {
+            "x": 0.813,
+            "y": 0.511
+          },
+          {
+            "x": 0.808,
+            "y": 0.526
+          },
+          {
+            "x": 0.719,
+            "y": 0.664
+          },
+          {
+            "x": 0.629,
+            "y": 0.744
+          },
+          {
+            "x": 0.606,
+            "y": 0.759
+          },
+          {
+            "x": 0.565,
+            "y": 0.776
+          },
+          {
+            "x": 0.56,
+            "y": 0.774
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.673,
+        "y": 0.662
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(170,84,255)"
+    },
+    "right_lateral_orbital_gyrus": {
+      "display_name": "Right Lateral Orbital Gyrus",
+      "anatomical_name": "Right Lateral Orbital Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.532,
+            "y": 0.122
+          },
+          {
+            "x": 0.612,
+            "y": 0.183
+          },
+          {
+            "x": 0.666,
+            "y": 0.232
+          },
+          {
+            "x": 0.727,
+            "y": 0.3
+          },
+          {
+            "x": 0.685,
+            "y": 0.4
+          },
+          {
+            "x": 0.629,
+            "y": 0.43
+          },
+          {
+            "x": 0.549,
+            "y": 0.432
+          },
+          {
+            "x": 0.503,
+            "y": 0.346
+          },
+          {
+            "x": 0.477,
+            "y": 0.159
+          },
+          {
+            "x": 0.479,
+            "y": 0.146
+          },
+          {
+            "x": 0.49,
+            "y": 0.134
+          },
+          {
+            "x": 0.529,
+            "y": 0.121
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.573,
+        "y": 0.25
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(35,75,49)"
+    },
+    "left_frontal_pole": {
+      "display_name": "Left Frontal Pole",
+      "anatomical_name": "Left Frontal Pole",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.408,
+            "y": 0.166
+          },
+          {
+            "x": 0.448,
+            "y": 0.157
+          },
+          {
+            "x": 0.459,
+            "y": 0.148
+          },
+          {
+            "x": 0.462,
+            "y": 0.138
+          },
+          {
+            "x": 0.462,
+            "y": 0.129
+          },
+          {
+            "x": 0.453,
+            "y": 0.117
+          },
+          {
+            "x": 0.436,
+            "y": 0.104
+          },
+          {
+            "x": 0.425,
+            "y": 0.102
+          },
+          {
+            "x": 0.38,
+            "y": 0.11
+          },
+          {
+            "x": 0.369,
+            "y": 0.12
+          },
+          {
+            "x": 0.37,
+            "y": 0.136
+          },
+          {
+            "x": 0.393,
+            "y": 0.166
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.422,
+        "y": 0.133
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(100,0,100)"
+    },
+    "left_straight_gyrus": {
+      "display_name": "Left Straight Gyrus",
+      "anatomical_name": "Left Straight Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.483,
+            "y": 0.373
+          },
+          {
+            "x": 0.476,
+            "y": 0.442
+          },
+          {
+            "x": 0.454,
+            "y": 0.445
+          },
+          {
+            "x": 0.427,
+            "y": 0.411
+          },
+          {
+            "x": 0.409,
+            "y": 0.352
+          },
+          {
+            "x": 0.403,
+            "y": 0.252
+          },
+          {
+            "x": 0.416,
+            "y": 0.151
+          },
+          {
+            "x": 0.425,
+            "y": 0.124
+          },
+          {
+            "x": 0.44,
+            "y": 0.123
+          },
+          {
+            "x": 0.459,
+            "y": 0.148
+          },
+          {
+            "x": 0.474,
+            "y": 0.202
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.442,
+        "y": 0.275
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(200,35,75)"
+    },
+    "left_superior_frontal_gyrus": {
+      "display_name": "Left Superior Frontal Gyrus",
+      "anatomical_name": "Left Superior Frontal Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.507,
+            "y": 0.438
+          },
+          {
+            "x": 0.512,
+            "y": 0.647
+          },
+          {
+            "x": 0.511,
+            "y": 0.702
+          },
+          {
+            "x": 0.506,
+            "y": 0.718
+          },
+          {
+            "x": 0.381,
+            "y": 0.617
+          },
+          {
+            "x": 0.357,
+            "y": 0.535
+          },
+          {
+            "x": 0.336,
+            "y": 0.15
+          },
+          {
+            "x": 0.38,
+            "y": 0.121
+          },
+          {
+            "x": 0.44,
+            "y": 0.115
+          },
+          {
+            "x": 0.465,
+            "y": 0.131
+          },
+          {
+            "x": 0.481,
+            "y": 0.194
+          },
+          {
+            "x": 0.499,
+            "y": 0.318
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.448,
+        "y": 0.391
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(49,160,149)"
+    },
+    "right_precentral_gyrus": {
+      "display_name": "Right Precentral Gyrus",
+      "anatomical_name": "Right Precentral Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.567,
+            "y": 0.775
+          },
+          {
+            "x": 0.724,
+            "y": 0.716
+          },
+          {
+            "x": 0.758,
+            "y": 0.69
+          },
+          {
+            "x": 0.829,
+            "y": 0.559
+          },
+          {
+            "x": 0.844,
+            "y": 0.511
+          },
+          {
+            "x": 0.844,
+            "y": 0.475
+          },
+          {
+            "x": 0.818,
+            "y": 0.41
+          },
+          {
+            "x": 0.769,
+            "y": 0.42
+          },
+          {
+            "x": 0.625,
+            "y": 0.55
+          },
+          {
+            "x": 0.541,
+            "y": 0.674
+          },
+          {
+            "x": 0.547,
+            "y": 0.757
+          },
+          {
+            "x": 0.563,
+            "y": 0.772
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.702,
+        "y": 0.609
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(94,75,175)"
+    },
+    "right_straight_gyrus": {
+      "display_name": "Right Straight Gyrus",
+      "anatomical_name": "Right Straight Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.499,
+            "y": 0.119
+          },
+          {
+            "x": 0.513,
+            "y": 0.138
+          },
+          {
+            "x": 0.56,
+            "y": 0.243
+          },
+          {
+            "x": 0.547,
+            "y": 0.451
+          },
+          {
+            "x": 0.543,
+            "y": 0.458
+          },
+          {
+            "x": 0.524,
+            "y": 0.454
+          },
+          {
+            "x": 0.507,
+            "y": 0.448
+          },
+          {
+            "x": 0.498,
+            "y": 0.439
+          },
+          {
+            "x": 0.472,
+            "y": 0.378
+          },
+          {
+            "x": 0.471,
+            "y": 0.173
+          },
+          {
+            "x": 0.481,
+            "y": 0.114
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.51,
+        "y": 0.31
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(200,35,75)"
+    },
+    "right_paracentral_lobule": {
+      "display_name": "Right Paracentral Lobule",
+      "anatomical_name": "Right Paracentral Lobule",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.623,
+            "y": 0.756
+          },
+          {
+            "x": 0.611,
+            "y": 0.785
+          },
+          {
+            "x": 0.567,
+            "y": 0.842
+          },
+          {
+            "x": 0.539,
+            "y": 0.812
+          },
+          {
+            "x": 0.525,
+            "y": 0.781
+          },
+          {
+            "x": 0.51,
+            "y": 0.714
+          },
+          {
+            "x": 0.508,
+            "y": 0.668
+          },
+          {
+            "x": 0.526,
+            "y": 0.623
+          },
+          {
+            "x": 0.57,
+            "y": 0.607
+          },
+          {
+            "x": 0.58,
+            "y": 0.61
+          },
+          {
+            "x": 0.588,
+            "y": 0.623
+          },
+          {
+            "x": 0.623,
+            "y": 0.75
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.564,
+        "y": 0.714
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(105,205,105)"
+    },
+    "right_frontal_pole": {
+      "display_name": "Right Frontal Pole",
+      "anatomical_name": "Right Frontal Pole",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.54,
+            "y": 0.104
+          },
+          {
+            "x": 0.54,
+            "y": 0.135
+          },
+          {
+            "x": 0.534,
+            "y": 0.148
+          },
+          {
+            "x": 0.528,
+            "y": 0.152
+          },
+          {
+            "x": 0.496,
+            "y": 0.157
+          },
+          {
+            "x": 0.484,
+            "y": 0.151
+          },
+          {
+            "x": 0.472,
+            "y": 0.123
+          },
+          {
+            "x": 0.474,
+            "y": 0.11
+          },
+          {
+            "x": 0.493,
+            "y": 0.097
+          },
+          {
+            "x": 0.523,
+            "y": 0.091
+          },
+          {
+            "x": 0.54,
+            "y": 0.102
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.511,
+        "y": 0.124
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(100,0,100)"
+    },
+    "left_precentral_gyrus": {
+      "display_name": "Left Precentral Gyrus",
+      "anatomical_name": "Left Precentral Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.155,
+            "y": 0.485
+          },
+          {
+            "x": 0.181,
+            "y": 0.441
+          },
+          {
+            "x": 0.205,
+            "y": 0.427
+          },
+          {
+            "x": 0.31,
+            "y": 0.475
+          },
+          {
+            "x": 0.498,
+            "y": 0.714
+          },
+          {
+            "x": 0.503,
+            "y": 0.796
+          },
+          {
+            "x": 0.496,
+            "y": 0.807
+          },
+          {
+            "x": 0.426,
+            "y": 0.799
+          },
+          {
+            "x": 0.19,
+            "y": 0.633
+          },
+          {
+            "x": 0.16,
+            "y": 0.579
+          },
+          {
+            "x": 0.155,
+            "y": 0.489
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.298,
+        "y": 0.604
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(94,75,175)"
+    },
+    "left_inferior_frontal_sulcus": {
+      "display_name": "Left Inferior Frontal Sulcus",
+      "anatomical_name": "Left Inferior Frontal Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.265,
+            "y": 0.272
+          },
+          {
+            "x": 0.26,
+            "y": 0.273
+          },
+          {
+            "x": 0.256,
+            "y": 0.278
+          },
+          {
+            "x": 0.245,
+            "y": 0.421
+          },
+          {
+            "x": 0.256,
+            "y": 0.481
+          },
+          {
+            "x": 0.266,
+            "y": 0.486
+          },
+          {
+            "x": 0.303,
+            "y": 0.469
+          },
+          {
+            "x": 0.309,
+            "y": 0.463
+          },
+          {
+            "x": 0.282,
+            "y": 0.3
+          },
+          {
+            "x": 0.278,
+            "y": 0.289
+          },
+          {
+            "x": 0.273,
+            "y": 0.281
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.272,
+        "y": 0.365
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(154,149,200)"
+    },
+    "left_paracentral_lobule": {
+      "display_name": "Left Paracentral Lobule",
+      "anatomical_name": "Left Paracentral Lobule",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.484,
+            "y": 0.888
+          },
+          {
+            "x": 0.514,
+            "y": 0.855
+          },
+          {
+            "x": 0.52,
+            "y": 0.809
+          },
+          {
+            "x": 0.518,
+            "y": 0.703
+          },
+          {
+            "x": 0.512,
+            "y": 0.651
+          },
+          {
+            "x": 0.504,
+            "y": 0.633
+          },
+          {
+            "x": 0.441,
+            "y": 0.614
+          },
+          {
+            "x": 0.428,
+            "y": 0.637
+          },
+          {
+            "x": 0.414,
+            "y": 0.765
+          },
+          {
+            "x": 0.444,
+            "y": 0.898
+          },
+          {
+            "x": 0.447,
+            "y": 0.905
+          },
+          {
+            "x": 0.456,
+            "y": 0.909
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.473,
+        "y": 0.772
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(59,175,79)"
+    },
+    "right_superior_frontal_sulcus": {
+      "display_name": "Right Superior Frontal Sulcus",
+      "anatomical_name": "Right Superior Frontal Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.719,
+            "y": 0.673
+          },
+          {
+            "x": 0.716,
+            "y": 0.682
+          },
+          {
+            "x": 0.71,
+            "y": 0.681
+          },
+          {
+            "x": 0.656,
+            "y": 0.647
+          },
+          {
+            "x": 0.643,
+            "y": 0.63
+          },
+          {
+            "x": 0.637,
+            "y": 0.616
+          },
+          {
+            "x": 0.608,
+            "y": 0.516
+          },
+          {
+            "x": 0.578,
+            "y": 0.351
+          },
+          {
+            "x": 0.588,
+            "y": 0.33
+          },
+          {
+            "x": 0.603,
+            "y": 0.316
+          },
+          {
+            "x": 0.613,
+            "y": 0.314
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.643,
+        "y": 0.523
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(188,77,149)"
+    },
+    "left_precentral_sulcus": {
+      "display_name": "Left Precentral Sulcus",
+      "anatomical_name": "Left Precentral Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.273,
+            "y": 0.577
+          },
+          {
+            "x": 0.237,
+            "y": 0.554
+          },
+          {
+            "x": 0.202,
+            "y": 0.488
+          },
+          {
+            "x": 0.203,
+            "y": 0.483
+          },
+          {
+            "x": 0.207,
+            "y": 0.481
+          },
+          {
+            "x": 0.255,
+            "y": 0.477
+          },
+          {
+            "x": 0.261,
+            "y": 0.479
+          },
+          {
+            "x": 0.463,
+            "y": 0.661
+          },
+          {
+            "x": 0.481,
+            "y": 0.691
+          },
+          {
+            "x": 0.478,
+            "y": 0.696
+          },
+          {
+            "x": 0.472,
+            "y": 0.696
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.321,
+        "y": 0.571
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(133,216,79)"
+    },
+    "left_central_sulcus": {
+      "display_name": "Left Central Sulcus",
+      "anatomical_name": "Left Central Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.171,
+            "y": 0.598
+          },
+          {
+            "x": 0.175,
+            "y": 0.595
+          },
+          {
+            "x": 0.231,
+            "y": 0.593
+          },
+          {
+            "x": 0.243,
+            "y": 0.597
+          },
+          {
+            "x": 0.331,
+            "y": 0.655
+          },
+          {
+            "x": 0.496,
+            "y": 0.792
+          },
+          {
+            "x": 0.496,
+            "y": 0.799
+          },
+          {
+            "x": 0.476,
+            "y": 0.805
+          },
+          {
+            "x": 0.435,
+            "y": 0.791
+          },
+          {
+            "x": 0.315,
+            "y": 0.724
+          },
+          {
+            "x": 0.172,
+            "y": 0.606
+          },
+          {
+            "x": 0.17,
+            "y": 0.6
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.309,
+        "y": 0.679
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(170,84,255)"
+    },
+    "left_lateral_orbital_gyrus": {
+      "display_name": "Left Lateral Orbital Gyrus",
+      "anatomical_name": "Left Lateral Orbital Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.438,
+            "y": 0.144
+          },
+          {
+            "x": 0.445,
+            "y": 0.169
+          },
+          {
+            "x": 0.427,
+            "y": 0.411
+          },
+          {
+            "x": 0.363,
+            "y": 0.457
+          },
+          {
+            "x": 0.336,
+            "y": 0.461
+          },
+          {
+            "x": 0.232,
+            "y": 0.406
+          },
+          {
+            "x": 0.222,
+            "y": 0.398
+          },
+          {
+            "x": 0.218,
+            "y": 0.385
+          },
+          {
+            "x": 0.284,
+            "y": 0.232
+          },
+          {
+            "x": 0.31,
+            "y": 0.202
+          },
+          {
+            "x": 0.395,
+            "y": 0.135
+          },
+          {
+            "x": 0.416,
+            "y": 0.135
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.34,
+        "y": 0.295
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(35,75,49)"
+    },
+    "left_superior_frontal_sulcus": {
+      "display_name": "Left Superior Frontal Sulcus",
+      "anatomical_name": "Left Superior Frontal Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.395,
+            "y": 0.276
+          },
+          {
+            "x": 0.383,
+            "y": 0.26
+          },
+          {
+            "x": 0.378,
+            "y": 0.261
+          },
+          {
+            "x": 0.374,
+            "y": 0.266
+          },
+          {
+            "x": 0.347,
+            "y": 0.532
+          },
+          {
+            "x": 0.347,
+            "y": 0.54
+          },
+          {
+            "x": 0.387,
+            "y": 0.607
+          },
+          {
+            "x": 0.392,
+            "y": 0.611
+          },
+          {
+            "x": 0.397,
+            "y": 0.611
+          },
+          {
+            "x": 0.402,
+            "y": 0.607
+          },
+          {
+            "x": 0.403,
+            "y": 0.604
+          },
+          {
+            "x": 0.408,
+            "y": 0.489
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.384,
+        "y": 0.472
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(188,77,149)"
+    },
+    "right_inferior_frontal_sulcus": {
+      "display_name": "Right Inferior Frontal Sulcus",
+      "anatomical_name": "Right Inferior Frontal Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.699,
+            "y": 0.44
+          },
+          {
+            "x": 0.704,
+            "y": 0.442
+          },
+          {
+            "x": 0.71,
+            "y": 0.441
+          },
+          {
+            "x": 0.728,
+            "y": 0.395
+          },
+          {
+            "x": 0.729,
+            "y": 0.387
+          },
+          {
+            "x": 0.722,
+            "y": 0.268
+          },
+          {
+            "x": 0.714,
+            "y": 0.24
+          },
+          {
+            "x": 0.711,
+            "y": 0.236
+          },
+          {
+            "x": 0.697,
+            "y": 0.231
+          },
+          {
+            "x": 0.693,
+            "y": 0.234
+          },
+          {
+            "x": 0.692,
+            "y": 0.238
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.709,
+        "y": 0.323
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(154,149,200)"
+    },
+    "right_precentral_sulcus": {
+      "display_name": "Right Precentral Sulcus",
+      "anatomical_name": "Right Precentral Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.689,
+            "y": 0.502
+          },
+          {
+            "x": 0.608,
+            "y": 0.59
+          },
+          {
+            "x": 0.565,
+            "y": 0.651
+          },
+          {
+            "x": 0.563,
+            "y": 0.656
+          },
+          {
+            "x": 0.564,
+            "y": 0.658
+          },
+          {
+            "x": 0.569,
+            "y": 0.66
+          },
+          {
+            "x": 0.573,
+            "y": 0.661
+          },
+          {
+            "x": 0.584,
+            "y": 0.655
+          },
+          {
+            "x": 0.602,
+            "y": 0.644
+          },
+          {
+            "x": 0.761,
+            "y": 0.512
+          },
+          {
+            "x": 0.797,
+            "y": 0.452
+          },
+          {
+            "x": 0.789,
+            "y": 0.444
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.639,
+        "y": 0.591
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(133,216,79)"
+    },
+    "left_superior_temporal_sulcus": {
+      "display_name": "Left Superior Temporal Sulcus",
+      "anatomical_name": "Left Superior Temporal Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.215,
+            "y": 0.635
+          },
+          {
+            "x": 0.244,
+            "y": 0.904
+          },
+          {
+            "x": 0.249,
+            "y": 0.907
+          },
+          {
+            "x": 0.253,
+            "y": 0.905
+          },
+          {
+            "x": 0.271,
+            "y": 0.878
+          },
+          {
+            "x": 0.277,
+            "y": 0.856
+          },
+          {
+            "x": 0.284,
+            "y": 0.776
+          },
+          {
+            "x": 0.28,
+            "y": 0.714
+          },
+          {
+            "x": 0.253,
+            "y": 0.546
+          },
+          {
+            "x": 0.246,
+            "y": 0.521
+          },
+          {
+            "x": 0.229,
+            "y": 0.472
+          },
+          {
+            "x": 0.218,
+            "y": 0.477
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.252,
+        "y": 0.716
+      },
+      "z_order": 5,
+      "groups": [
+        "left frontal lobe"
+      ],
+      "default_color": "rgb(121,158,165)"
+    },
+    "right_superior_frontal_gyrus": {
+      "display_name": "Right Superior Frontal Gyrus",
+      "anatomical_name": "Right Superior Frontal Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.542,
+            "y": 0.674
+          },
+          {
+            "x": 0.608,
+            "y": 0.639
+          },
+          {
+            "x": 0.67,
+            "y": 0.574
+          },
+          {
+            "x": 0.664,
+            "y": 0.338
+          },
+          {
+            "x": 0.626,
+            "y": 0.204
+          },
+          {
+            "x": 0.575,
+            "y": 0.131
+          },
+          {
+            "x": 0.543,
+            "y": 0.109
+          },
+          {
+            "x": 0.487,
+            "y": 0.103
+          },
+          {
+            "x": 0.473,
+            "y": 0.117
+          },
+          {
+            "x": 0.468,
+            "y": 0.203
+          },
+          {
+            "x": 0.503,
+            "y": 0.542
+          },
+          {
+            "x": 0.537,
+            "y": 0.675
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.558,
+        "y": 0.359
+      },
+      "z_order": 5,
+      "groups": [
+        "right frontal lobe"
+      ],
+      "default_color": "rgb(49,160,149)"
+    }
+  }
+}

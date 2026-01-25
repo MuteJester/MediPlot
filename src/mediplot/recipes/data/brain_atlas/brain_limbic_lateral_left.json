@@ -1,0 +1,871 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_limbic_lateral_left",
+  "display_name": "Brain Limbic System (Left Lateral View)",
+  "description": "Head and neck anatomy with labeled structures (lateral left view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "lateral_left"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.87,
+        "y": 0.456
+      },
+      {
+        "x": 0.909,
+        "y": 0.515
+      },
+      {
+        "x": 0.908,
+        "y": 0.535
+      },
+      {
+        "x": 0.888,
+        "y": 0.62
+      },
+      {
+        "x": 0.685,
+        "y": 0.71
+      },
+      {
+        "x": 0.492,
+        "y": 0.782
+      },
+      {
+        "x": 0.215,
+        "y": 0.807
+      },
+      {
+        "x": 0.091,
+        "y": 0.774
+      },
+      {
+        "x": 0.094,
+        "y": 0.755
+      },
+      {
+        "x": 0.161,
+        "y": 0.371
+      },
+      {
+        "x": 0.163,
+        "y": 0.367
+      },
+      {
+        "x": 0.28,
+        "y": 0.292
+      },
+      {
+        "x": 0.422,
+        "y": 0.218
+      },
+      {
+        "x": 0.448,
+        "y": 0.208
+      },
+      {
+        "x": 0.474,
+        "y": 0.2
+      },
+      {
+        "x": 0.525,
+        "y": 0.193
+      },
+      {
+        "x": 0.554,
+        "y": 0.197
+      },
+      {
+        "x": 0.619,
+        "y": 0.249
+      }
+    ]
+  },
+  "regions": {
+    "right_amygdala": {
+      "display_name": "Right Amygdala",
+      "anatomical_name": "Right Amygdala",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.581,
+            "y": 0.383
+          },
+          {
+            "x": 0.569,
+            "y": 0.383
+          },
+          {
+            "x": 0.507,
+            "y": 0.368
+          },
+          {
+            "x": 0.583,
+            "y": 0.252
+          },
+          {
+            "x": 0.588,
+            "y": 0.248
+          },
+          {
+            "x": 0.616,
+            "y": 0.247
+          },
+          {
+            "x": 0.619,
+            "y": 0.249
+          },
+          {
+            "x": 0.635,
+            "y": 0.271
+          },
+          {
+            "x": 0.636,
+            "y": 0.328
+          },
+          {
+            "x": 0.635,
+            "y": 0.343
+          },
+          {
+            "x": 0.632,
+            "y": 0.353
+          },
+          {
+            "x": 0.624,
+            "y": 0.359
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.602,
+        "y": 0.315
+      },
+      "z_order": 5,
+      "groups": [
+        "right limbic lobe"
+      ],
+      "default_color": "rgb(105,255,255)"
+    },
+    "isthmus_of_left_cingulate_gyrus": {
+      "display_name": "Isthmus Of Left Cingulate Gyrus",
+      "anatomical_name": "Isthmus Of Left Cingulate Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.349,
+            "y": 0.568
+          },
+          {
+            "x": 0.282,
+            "y": 0.376
+          },
+          {
+            "x": 0.275,
+            "y": 0.369
+          },
+          {
+            "x": 0.194,
+            "y": 0.351
+          },
+          {
+            "x": 0.163,
+            "y": 0.367
+          },
+          {
+            "x": 0.161,
+            "y": 0.371
+          },
+          {
+            "x": 0.181,
+            "y": 0.562
+          },
+          {
+            "x": 0.189,
+            "y": 0.581
+          },
+          {
+            "x": 0.204,
+            "y": 0.601
+          },
+          {
+            "x": 0.267,
+            "y": 0.626
+          },
+          {
+            "x": 0.287,
+            "y": 0.619
+          },
+          {
+            "x": 0.346,
+            "y": 0.577
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.241,
+        "y": 0.497
+      },
+      "z_order": 5,
+      "groups": [
+        "left cingulate gyrus"
+      ],
+      "default_color": "rgb(140,20,140)"
+    },
+    "right_parahippocampal_gyrus": {
+      "display_name": "Right Parahippocampal Gyrus",
+      "anatomical_name": "Right Parahippocampal Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.574,
+            "y": 0.253
+          },
+          {
+            "x": 0.592,
+            "y": 0.243
+          },
+          {
+            "x": 0.578,
+            "y": 0.221
+          },
+          {
+            "x": 0.554,
+            "y": 0.197
+          },
+          {
+            "x": 0.525,
+            "y": 0.193
+          },
+          {
+            "x": 0.474,
+            "y": 0.2
+          },
+          {
+            "x": 0.402,
+            "y": 0.238
+          },
+          {
+            "x": 0.354,
+            "y": 0.277
+          },
+          {
+            "x": 0.348,
+            "y": 0.296
+          },
+          {
+            "x": 0.352,
+            "y": 0.311
+          },
+          {
+            "x": 0.401,
+            "y": 0.307
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.469,
+        "y": 0.249
+      },
+      "z_order": 5,
+      "groups": [
+        "right limbic lobe"
+      ],
+      "default_color": "rgb(244,244,23)"
+    },
+    "left_amygdala": {
+      "display_name": "Left Amygdala",
+      "anatomical_name": "Left Amygdala",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.595,
+            "y": 0.253
+          },
+          {
+            "x": 0.585,
+            "y": 0.254
+          },
+          {
+            "x": 0.562,
+            "y": 0.271
+          },
+          {
+            "x": 0.501,
+            "y": 0.36
+          },
+          {
+            "x": 0.502,
+            "y": 0.37
+          },
+          {
+            "x": 0.534,
+            "y": 0.395
+          },
+          {
+            "x": 0.579,
+            "y": 0.376
+          },
+          {
+            "x": 0.594,
+            "y": 0.365
+          },
+          {
+            "x": 0.604,
+            "y": 0.353
+          },
+          {
+            "x": 0.607,
+            "y": 0.336
+          },
+          {
+            "x": 0.608,
+            "y": 0.272
+          },
+          {
+            "x": 0.603,
+            "y": 0.258
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.573,
+        "y": 0.322
+      },
+      "z_order": 5,
+      "groups": [
+        "left limbic lobe"
+      ],
+      "default_color": "rgb(105,255,255)"
+    },
+    "right_posterior_cingulate_gyrus": {
+      "display_name": "Right Posterior Cingulate Gyrus",
+      "anatomical_name": "Right Posterior Cingulate Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.266,
+            "y": 0.663
+          },
+          {
+            "x": 0.276,
+            "y": 0.675
+          },
+          {
+            "x": 0.287,
+            "y": 0.682
+          },
+          {
+            "x": 0.473,
+            "y": 0.783
+          },
+          {
+            "x": 0.492,
+            "y": 0.782
+          },
+          {
+            "x": 0.578,
+            "y": 0.745
+          },
+          {
+            "x": 0.586,
+            "y": 0.731
+          },
+          {
+            "x": 0.607,
+            "y": 0.638
+          },
+          {
+            "x": 0.349,
+            "y": 0.561
+          },
+          {
+            "x": 0.345,
+            "y": 0.561
+          },
+          {
+            "x": 0.308,
+            "y": 0.589
+          },
+          {
+            "x": 0.269,
+            "y": 0.655
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.403,
+        "y": 0.672
+      },
+      "z_order": 5,
+      "groups": [
+        "right cingulate gyrus"
+      ],
+      "default_color": "rgb(219,179,219)"
+    },
+    "left_cingulate_sulcus": {
+      "display_name": "Left Cingulate Sulcus",
+      "anatomical_name": "Left Cingulate Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.868,
+            "y": 0.595
+          },
+          {
+            "x": 0.861,
+            "y": 0.587
+          },
+          {
+            "x": 0.29,
+            "y": 0.622
+          },
+          {
+            "x": 0.156,
+            "y": 0.659
+          },
+          {
+            "x": 0.104,
+            "y": 0.733
+          },
+          {
+            "x": 0.094,
+            "y": 0.755
+          },
+          {
+            "x": 0.091,
+            "y": 0.774
+          },
+          {
+            "x": 0.103,
+            "y": 0.776
+          },
+          {
+            "x": 0.503,
+            "y": 0.756
+          },
+          {
+            "x": 0.804,
+            "y": 0.642
+          },
+          {
+            "x": 0.869,
+            "y": 0.597
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.431,
+        "y": 0.681
+      },
+      "z_order": 5,
+      "groups": [
+        "left limbic lobe"
+      ],
+      "default_color": "rgb(135,110,235)"
+    },
+    "right_hippocampus": {
+      "display_name": "Right Hippocampus",
+      "anatomical_name": "Right Hippocampus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.532,
+            "y": 0.358
+          },
+          {
+            "x": 0.329,
+            "y": 0.403
+          },
+          {
+            "x": 0.296,
+            "y": 0.387
+          },
+          {
+            "x": 0.334,
+            "y": 0.335
+          },
+          {
+            "x": 0.398,
+            "y": 0.3
+          },
+          {
+            "x": 0.493,
+            "y": 0.256
+          },
+          {
+            "x": 0.543,
+            "y": 0.242
+          },
+          {
+            "x": 0.568,
+            "y": 0.239
+          },
+          {
+            "x": 0.589,
+            "y": 0.245
+          },
+          {
+            "x": 0.593,
+            "y": 0.262
+          },
+          {
+            "x": 0.574,
+            "y": 0.326
+          },
+          {
+            "x": 0.547,
+            "y": 0.35
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.483,
+        "y": 0.309
+      },
+      "z_order": 5,
+      "groups": [
+        "right limbic lobe"
+      ],
+      "default_color": "rgb(219,214,20)"
+    },
+    "left_posterior_cingulate_gyrus": {
+      "display_name": "Left Posterior Cingulate Gyrus",
+      "anatomical_name": "Left Posterior Cingulate Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.251,
+            "y": 0.654
+          },
+          {
+            "x": 0.25,
+            "y": 0.668
+          },
+          {
+            "x": 0.258,
+            "y": 0.68
+          },
+          {
+            "x": 0.28,
+            "y": 0.693
+          },
+          {
+            "x": 0.497,
+            "y": 0.763
+          },
+          {
+            "x": 0.52,
+            "y": 0.754
+          },
+          {
+            "x": 0.563,
+            "y": 0.711
+          },
+          {
+            "x": 0.574,
+            "y": 0.691
+          },
+          {
+            "x": 0.573,
+            "y": 0.645
+          },
+          {
+            "x": 0.366,
+            "y": 0.566
+          },
+          {
+            "x": 0.338,
+            "y": 0.573
+          },
+          {
+            "x": 0.26,
+            "y": 0.618
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.394,
+        "y": 0.668
+      },
+      "z_order": 5,
+      "groups": [
+        "left cingulate gyrus"
+      ],
+      "default_color": "rgb(219,179,219)"
+    },
+    "right_cingulate_sulcus": {
+      "display_name": "Right Cingulate Sulcus",
+      "anatomical_name": "Right Cingulate Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.908,
+            "y": 0.535
+          },
+          {
+            "x": 0.888,
+            "y": 0.62
+          },
+          {
+            "x": 0.685,
+            "y": 0.71
+          },
+          {
+            "x": 0.492,
+            "y": 0.767
+          },
+          {
+            "x": 0.215,
+            "y": 0.807
+          },
+          {
+            "x": 0.206,
+            "y": 0.796
+          },
+          {
+            "x": 0.236,
+            "y": 0.666
+          },
+          {
+            "x": 0.279,
+            "y": 0.626
+          },
+          {
+            "x": 0.331,
+            "y": 0.603
+          },
+          {
+            "x": 0.812,
+            "y": 0.427
+          },
+          {
+            "x": 0.87,
+            "y": 0.456
+          },
+          {
+            "x": 0.909,
+            "y": 0.515
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.569,
+        "y": 0.627
+      },
+      "z_order": 5,
+      "groups": [
+        "right limbic lobe"
+      ],
+      "default_color": "rgb(135,110,255)"
+    },
+    "left_parahippocampal_gyrus": {
+      "display_name": "Left Parahippocampal Gyrus",
+      "anatomical_name": "Left Parahippocampal Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.321,
+            "y": 0.383
+          },
+          {
+            "x": 0.292,
+            "y": 0.367
+          },
+          {
+            "x": 0.28,
+            "y": 0.324
+          },
+          {
+            "x": 0.278,
+            "y": 0.298
+          },
+          {
+            "x": 0.28,
+            "y": 0.292
+          },
+          {
+            "x": 0.422,
+            "y": 0.218
+          },
+          {
+            "x": 0.448,
+            "y": 0.208
+          },
+          {
+            "x": 0.463,
+            "y": 0.211
+          },
+          {
+            "x": 0.475,
+            "y": 0.226
+          },
+          {
+            "x": 0.478,
+            "y": 0.269
+          },
+          {
+            "x": 0.474,
+            "y": 0.283
+          },
+          {
+            "x": 0.471,
+            "y": 0.285
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.39,
+        "y": 0.28
+      },
+      "z_order": 5,
+      "groups": [
+        "left limbic lobe"
+      ],
+      "default_color": "rgb(244,244,23)"
+    },
+    "isthmus_of_right_cingulate_gyrus": {
+      "display_name": "Isthmus Of Right Cingulate Gyrus",
+      "anatomical_name": "Isthmus Of Right Cingulate Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.362,
+            "y": 0.345
+          },
+          {
+            "x": 0.328,
+            "y": 0.328
+          },
+          {
+            "x": 0.315,
+            "y": 0.326
+          },
+          {
+            "x": 0.245,
+            "y": 0.35
+          },
+          {
+            "x": 0.177,
+            "y": 0.402
+          },
+          {
+            "x": 0.162,
+            "y": 0.531
+          },
+          {
+            "x": 0.172,
+            "y": 0.572
+          },
+          {
+            "x": 0.196,
+            "y": 0.61
+          },
+          {
+            "x": 0.275,
+            "y": 0.648
+          },
+          {
+            "x": 0.302,
+            "y": 0.635
+          },
+          {
+            "x": 0.349,
+            "y": 0.562
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.262,
+        "y": 0.483
+      },
+      "z_order": 5,
+      "groups": [
+        "right cingulate gyrus"
+      ],
+      "default_color": "rgb(140,20,140)"
+    },
+    "left_hippocampus": {
+      "display_name": "Left Hippocampus",
+      "anatomical_name": "Left Hippocampus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.307,
+            "y": 0.415
+          },
+          {
+            "x": 0.249,
+            "y": 0.392
+          },
+          {
+            "x": 0.25,
+            "y": 0.387
+          },
+          {
+            "x": 0.289,
+            "y": 0.355
+          },
+          {
+            "x": 0.347,
+            "y": 0.319
+          },
+          {
+            "x": 0.494,
+            "y": 0.258
+          },
+          {
+            "x": 0.529,
+            "y": 0.249
+          },
+          {
+            "x": 0.567,
+            "y": 0.249
+          },
+          {
+            "x": 0.574,
+            "y": 0.253
+          },
+          {
+            "x": 0.578,
+            "y": 0.26
+          },
+          {
+            "x": 0.57,
+            "y": 0.315
+          },
+          {
+            "x": 0.525,
+            "y": 0.369
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.44,
+        "y": 0.318
+      },
+      "z_order": 5,
+      "groups": [
+        "left limbic lobe"
+      ],
+      "default_color": "rgb(219,214,20)"
+    }
+  }
+}

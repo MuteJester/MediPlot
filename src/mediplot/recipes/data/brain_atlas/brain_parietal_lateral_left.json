@@ -1,0 +1,719 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_parietal_lateral_left",
+  "display_name": "Brain Parietal Lobes (Left Lateral View)",
+  "description": "Head and neck anatomy with labeled structures (lateral left view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "lateral_left"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.19,
+        "y": 0.588
+      },
+      {
+        "x": 0.092,
+        "y": 0.378
+      },
+      {
+        "x": 0.099,
+        "y": 0.341
+      },
+      {
+        "x": 0.15,
+        "y": 0.192
+      },
+      {
+        "x": 0.357,
+        "y": 0.234
+      },
+      {
+        "x": 0.85,
+        "y": 0.356
+      },
+      {
+        "x": 0.877,
+        "y": 0.364
+      },
+      {
+        "x": 0.909,
+        "y": 0.417
+      },
+      {
+        "x": 0.741,
+        "y": 0.673
+      },
+      {
+        "x": 0.653,
+        "y": 0.734
+      },
+      {
+        "x": 0.533,
+        "y": 0.791
+      },
+      {
+        "x": 0.465,
+        "y": 0.808
+      },
+      {
+        "x": 0.433,
+        "y": 0.802
+      },
+      {
+        "x": 0.428,
+        "y": 0.8
+      },
+      {
+        "x": 0.327,
+        "y": 0.745
+      },
+      {
+        "x": 0.27,
+        "y": 0.68
+      }
+    ]
+  },
+  "regions": {
+    "right_postcentral_gyrus": {
+      "display_name": "Right Postcentral Gyrus",
+      "anatomical_name": "Right Postcentral Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.741,
+            "y": 0.673
+          },
+          {
+            "x": 0.909,
+            "y": 0.417
+          },
+          {
+            "x": 0.877,
+            "y": 0.364
+          },
+          {
+            "x": 0.85,
+            "y": 0.356
+          },
+          {
+            "x": 0.797,
+            "y": 0.362
+          },
+          {
+            "x": 0.75,
+            "y": 0.392
+          },
+          {
+            "x": 0.54,
+            "y": 0.569
+          },
+          {
+            "x": 0.456,
+            "y": 0.65
+          },
+          {
+            "x": 0.409,
+            "y": 0.777
+          },
+          {
+            "x": 0.465,
+            "y": 0.808
+          },
+          {
+            "x": 0.533,
+            "y": 0.791
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.666,
+        "y": 0.56
+      },
+      "z_order": 5,
+      "groups": [
+        "right parietal lobe"
+      ],
+      "default_color": "rgb(195,40,40)"
+    },
+    "right_superior_parietal_lobule": {
+      "display_name": "Right Superior Parietal Lobule",
+      "anatomical_name": "Right Superior Parietal Lobule",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.125,
+            "y": 0.371
+          },
+          {
+            "x": 0.147,
+            "y": 0.325
+          },
+          {
+            "x": 0.203,
+            "y": 0.259
+          },
+          {
+            "x": 0.272,
+            "y": 0.245
+          },
+          {
+            "x": 0.57,
+            "y": 0.535
+          },
+          {
+            "x": 0.572,
+            "y": 0.549
+          },
+          {
+            "x": 0.528,
+            "y": 0.652
+          },
+          {
+            "x": 0.471,
+            "y": 0.733
+          },
+          {
+            "x": 0.408,
+            "y": 0.777
+          },
+          {
+            "x": 0.27,
+            "y": 0.68
+          },
+          {
+            "x": 0.139,
+            "y": 0.432
+          },
+          {
+            "x": 0.124,
+            "y": 0.374
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.319,
+        "y": 0.494
+      },
+      "z_order": 5,
+      "groups": [
+        "right parietal lobe"
+      ],
+      "default_color": "rgb(20,179,140)"
+    },
+    "left_postcentral_gyrus": {
+      "display_name": "Left Postcentral Gyrus",
+      "anatomical_name": "Left Postcentral Gyrus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.433,
+            "y": 0.802
+          },
+          {
+            "x": 0.592,
+            "y": 0.763
+          },
+          {
+            "x": 0.653,
+            "y": 0.734
+          },
+          {
+            "x": 0.683,
+            "y": 0.71
+          },
+          {
+            "x": 0.804,
+            "y": 0.464
+          },
+          {
+            "x": 0.813,
+            "y": 0.403
+          },
+          {
+            "x": 0.788,
+            "y": 0.388
+          },
+          {
+            "x": 0.718,
+            "y": 0.379
+          },
+          {
+            "x": 0.58,
+            "y": 0.419
+          },
+          {
+            "x": 0.352,
+            "y": 0.73
+          },
+          {
+            "x": 0.355,
+            "y": 0.751
+          },
+          {
+            "x": 0.428,
+            "y": 0.8
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.6,
+        "y": 0.612
+      },
+      "z_order": 5,
+      "groups": [
+        "left parietal lobe"
+      ],
+      "default_color": "rgb(195,40,40)"
+    },
+    "left_precuneus": {
+      "display_name": "Left Precuneus",
+      "anatomical_name": "Left Precuneus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.357,
+            "y": 0.234
+          },
+          {
+            "x": 0.322,
+            "y": 0.24
+          },
+          {
+            "x": 0.214,
+            "y": 0.347
+          },
+          {
+            "x": 0.206,
+            "y": 0.378
+          },
+          {
+            "x": 0.209,
+            "y": 0.435
+          },
+          {
+            "x": 0.241,
+            "y": 0.565
+          },
+          {
+            "x": 0.334,
+            "y": 0.722
+          },
+          {
+            "x": 0.518,
+            "y": 0.599
+          },
+          {
+            "x": 0.53,
+            "y": 0.56
+          },
+          {
+            "x": 0.478,
+            "y": 0.311
+          },
+          {
+            "x": 0.453,
+            "y": 0.286
+          },
+          {
+            "x": 0.393,
+            "y": 0.253
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.355,
+        "y": 0.411
+      },
+      "z_order": 5,
+      "groups": [
+        "left parietal lobe"
+      ],
+      "default_color": "rgb(160,140,179)"
+    },
+    "left_superior_parietal_lobule": {
+      "display_name": "Left Superior Parietal Lobule",
+      "anatomical_name": "Left Superior Parietal Lobule",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.564,
+            "y": 0.634
+          },
+          {
+            "x": 0.456,
+            "y": 0.709
+          },
+          {
+            "x": 0.349,
+            "y": 0.754
+          },
+          {
+            "x": 0.327,
+            "y": 0.745
+          },
+          {
+            "x": 0.19,
+            "y": 0.588
+          },
+          {
+            "x": 0.092,
+            "y": 0.378
+          },
+          {
+            "x": 0.099,
+            "y": 0.341
+          },
+          {
+            "x": 0.132,
+            "y": 0.29
+          },
+          {
+            "x": 0.204,
+            "y": 0.251
+          },
+          {
+            "x": 0.237,
+            "y": 0.255
+          },
+          {
+            "x": 0.539,
+            "y": 0.551
+          },
+          {
+            "x": 0.565,
+            "y": 0.631
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.313,
+        "y": 0.511
+      },
+      "z_order": 5,
+      "groups": [
+        "left parietal lobe"
+      ],
+      "default_color": "rgb(20,179,140)"
+    },
+    "right_postcentral_sulcus": {
+      "display_name": "Right Postcentral Sulcus",
+      "anatomical_name": "Right Postcentral Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.467,
+            "y": 0.666
+          },
+          {
+            "x": 0.481,
+            "y": 0.669
+          },
+          {
+            "x": 0.509,
+            "y": 0.663
+          },
+          {
+            "x": 0.707,
+            "y": 0.537
+          },
+          {
+            "x": 0.771,
+            "y": 0.466
+          },
+          {
+            "x": 0.772,
+            "y": 0.455
+          },
+          {
+            "x": 0.766,
+            "y": 0.447
+          },
+          {
+            "x": 0.554,
+            "y": 0.525
+          },
+          {
+            "x": 0.409,
+            "y": 0.628
+          },
+          {
+            "x": 0.406,
+            "y": 0.634
+          },
+          {
+            "x": 0.411,
+            "y": 0.641
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.568,
+        "y": 0.576
+      },
+      "z_order": 5,
+      "groups": [
+        "right parietal lobe"
+      ],
+      "default_color": "rgb(149,98,82)"
+    },
+    "right_intraparietal_sulcus": {
+      "display_name": "Right Intraparietal Sulcus",
+      "anatomical_name": "Right Intraparietal Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.499,
+            "y": 0.472
+          },
+          {
+            "x": 0.498,
+            "y": 0.478
+          },
+          {
+            "x": 0.492,
+            "y": 0.485
+          },
+          {
+            "x": 0.348,
+            "y": 0.497
+          },
+          {
+            "x": 0.172,
+            "y": 0.273
+          },
+          {
+            "x": 0.17,
+            "y": 0.267
+          },
+          {
+            "x": 0.171,
+            "y": 0.263
+          },
+          {
+            "x": 0.173,
+            "y": 0.26
+          },
+          {
+            "x": 0.271,
+            "y": 0.23
+          },
+          {
+            "x": 0.29,
+            "y": 0.233
+          },
+          {
+            "x": 0.331,
+            "y": 0.257
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.311,
+        "y": 0.338
+      },
+      "z_order": 5,
+      "groups": [
+        "right parietal lobe"
+      ],
+      "default_color": "rgb(237,255,174)"
+    },
+    "right_precuneus": {
+      "display_name": "Right Precuneus",
+      "anatomical_name": "Right Precuneus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.413,
+            "y": 0.764
+          },
+          {
+            "x": 0.429,
+            "y": 0.772
+          },
+          {
+            "x": 0.566,
+            "y": 0.574
+          },
+          {
+            "x": 0.573,
+            "y": 0.541
+          },
+          {
+            "x": 0.497,
+            "y": 0.302
+          },
+          {
+            "x": 0.464,
+            "y": 0.272
+          },
+          {
+            "x": 0.365,
+            "y": 0.275
+          },
+          {
+            "x": 0.343,
+            "y": 0.289
+          },
+          {
+            "x": 0.259,
+            "y": 0.363
+          },
+          {
+            "x": 0.207,
+            "y": 0.479
+          },
+          {
+            "x": 0.222,
+            "y": 0.567
+          },
+          {
+            "x": 0.241,
+            "y": 0.597
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.381,
+        "y": 0.483
+      },
+      "z_order": 5,
+      "groups": [
+        "right parietal lobe"
+      ],
+      "default_color": "rgb(160,140,179)"
+    },
+    "left_postcentral_sulcus": {
+      "display_name": "Left Postcentral Sulcus",
+      "anatomical_name": "Left Postcentral Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.422,
+            "y": 0.725
+          },
+          {
+            "x": 0.417,
+            "y": 0.724
+          },
+          {
+            "x": 0.415,
+            "y": 0.715
+          },
+          {
+            "x": 0.435,
+            "y": 0.607
+          },
+          {
+            "x": 0.652,
+            "y": 0.455
+          },
+          {
+            "x": 0.665,
+            "y": 0.457
+          },
+          {
+            "x": 0.674,
+            "y": 0.499
+          },
+          {
+            "x": 0.673,
+            "y": 0.519
+          },
+          {
+            "x": 0.663,
+            "y": 0.535
+          },
+          {
+            "x": 0.599,
+            "y": 0.602
+          },
+          {
+            "x": 0.428,
+            "y": 0.723
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.549,
+        "y": 0.597
+      },
+      "z_order": 5,
+      "groups": [
+        "left parietal lobe"
+      ],
+      "default_color": "rgb(149,98,82)"
+    },
+    "left_intraparietal_sulcus": {
+      "display_name": "Left Intraparietal Sulcus",
+      "anatomical_name": "Left Intraparietal Sulcus",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.461,
+            "y": 0.484
+          },
+          {
+            "x": 0.277,
+            "y": 0.279
+          },
+          {
+            "x": 0.166,
+            "y": 0.197
+          },
+          {
+            "x": 0.15,
+            "y": 0.192
+          },
+          {
+            "x": 0.148,
+            "y": 0.206
+          },
+          {
+            "x": 0.24,
+            "y": 0.466
+          },
+          {
+            "x": 0.301,
+            "y": 0.524
+          },
+          {
+            "x": 0.48,
+            "y": 0.544
+          },
+          {
+            "x": 0.487,
+            "y": 0.542
+          },
+          {
+            "x": 0.492,
+            "y": 0.535
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.32,
+        "y": 0.397
+      },
+      "z_order": 5,
+      "groups": [
+        "left parietal lobe"
+      ],
+      "default_color": "rgb(235,255,174)"
+    }
+  }
+}

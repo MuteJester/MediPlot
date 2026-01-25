@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0",
+  "shape_id": "brain_brainstem_lateral_right",
+  "display_name": "Brain Brainstem (Right Lateral View)",
+  "description": "Head and neck anatomy with labeled structures (lateral right view)",
+  "metadata": {
+    "category": "anatomy",
+    "subcategory": "head_neck",
+    "aspect_ratio": 0.8,
+    "anatomical_position": "lateral_right"
+  },
+  "outline": {
+    "type": "polygon",
+    "vertices": [
+      {
+        "x": 0.509,
+        "y": 0.091
+      },
+      {
+        "x": 0.54,
+        "y": 0.102
+      },
+      {
+        "x": 0.783,
+        "y": 0.484
+      },
+      {
+        "x": 0.786,
+        "y": 0.495
+      },
+      {
+        "x": 0.604,
+        "y": 0.78
+      },
+      {
+        "x": 0.529,
+        "y": 0.878
+      },
+      {
+        "x": 0.401,
+        "y": 0.909
+      },
+      {
+        "x": 0.259,
+        "y": 0.905
+      },
+      {
+        "x": 0.25,
+        "y": 0.903
+      },
+      {
+        "x": 0.224,
+        "y": 0.889
+      },
+      {
+        "x": 0.214,
+        "y": 0.861
+      },
+      {
+        "x": 0.291,
+        "y": 0.59
+      },
+      {
+        "x": 0.455,
+        "y": 0.109
+      },
+      {
+        "x": 0.469,
+        "y": 0.094
+      }
+    ]
+  },
+  "regions": {
+    "medulla_oblongata": {
+      "display_name": "Medulla Oblongata",
+      "anatomical_name": "Medulla Oblongata",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.367,
+            "y": 0.454
+          },
+          {
+            "x": 0.371,
+            "y": 0.458
+          },
+          {
+            "x": 0.524,
+            "y": 0.471
+          },
+          {
+            "x": 0.598,
+            "y": 0.471
+          },
+          {
+            "x": 0.623,
+            "y": 0.464
+          },
+          {
+            "x": 0.588,
+            "y": 0.261
+          },
+          {
+            "x": 0.55,
+            "y": 0.126
+          },
+          {
+            "x": 0.54,
+            "y": 0.102
+          },
+          {
+            "x": 0.509,
+            "y": 0.091
+          },
+          {
+            "x": 0.469,
+            "y": 0.094
+          },
+          {
+            "x": 0.455,
+            "y": 0.109
+          },
+          {
+            "x": 0.367,
+            "y": 0.449
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.497,
+        "y": 0.296
+      },
+      "z_order": 5,
+      "groups": [
+        "rhombencephalon"
+      ],
+      "default_color": "rgb(135,205,235)"
+    },
+    "aqueduct": {
+      "display_name": "Aqueduct",
+      "anatomical_name": "Aqueduct",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.579,
+            "y": 0.713
+          },
+          {
+            "x": 0.567,
+            "y": 0.71
+          },
+          {
+            "x": 0.557,
+            "y": 0.716
+          },
+          {
+            "x": 0.427,
+            "y": 0.889
+          },
+          {
+            "x": 0.426,
+            "y": 0.894
+          },
+          {
+            "x": 0.442,
+            "y": 0.898
+          },
+          {
+            "x": 0.472,
+            "y": 0.877
+          },
+          {
+            "x": 0.519,
+            "y": 0.836
+          },
+          {
+            "x": 0.566,
+            "y": 0.779
+          },
+          {
+            "x": 0.583,
+            "y": 0.72
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.514,
+        "y": 0.803
+      },
+      "z_order": 5,
+      "groups": [
+        "midbrain"
+      ],
+      "default_color": "rgb(87,105,214)"
+    },
+    "fourth_ventricle": {
+      "display_name": "Fourth Ventricle",
+      "anatomical_name": "Fourth Ventricle",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.552,
+            "y": 0.703
+          },
+          {
+            "x": 0.566,
+            "y": 0.711
+          },
+          {
+            "x": 0.58,
+            "y": 0.712
+          },
+          {
+            "x": 0.59,
+            "y": 0.711
+          },
+          {
+            "x": 0.608,
+            "y": 0.7
+          },
+          {
+            "x": 0.786,
+            "y": 0.495
+          },
+          {
+            "x": 0.783,
+            "y": 0.484
+          },
+          {
+            "x": 0.594,
+            "y": 0.238
+          },
+          {
+            "x": 0.59,
+            "y": 0.233
+          },
+          {
+            "x": 0.582,
+            "y": 0.227
+          },
+          {
+            "x": 0.578,
+            "y": 0.23
+          },
+          {
+            "x": 0.531,
+            "y": 0.423
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.612,
+        "y": 0.489
+      },
+      "z_order": 5,
+      "groups": [
+        "rhombencephalon"
+      ],
+      "default_color": "rgb(87,105,214)"
+    },
+    "pons": {
+      "display_name": "Pons",
+      "anatomical_name": "Pons",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.369,
+            "y": 0.458
+          },
+          {
+            "x": 0.326,
+            "y": 0.505
+          },
+          {
+            "x": 0.291,
+            "y": 0.59
+          },
+          {
+            "x": 0.29,
+            "y": 0.711
+          },
+          {
+            "x": 0.352,
+            "y": 0.738
+          },
+          {
+            "x": 0.512,
+            "y": 0.73
+          },
+          {
+            "x": 0.614,
+            "y": 0.673
+          },
+          {
+            "x": 0.646,
+            "y": 0.631
+          },
+          {
+            "x": 0.641,
+            "y": 0.48
+          },
+          {
+            "x": 0.54,
+            "y": 0.459
+          },
+          {
+            "x": 0.375,
+            "y": 0.457
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.45,
+        "y": 0.585
+      },
+      "z_order": 5,
+      "groups": [
+        "metencephalon"
+      ],
+      "default_color": "rgb(49,49,135)"
+    },
+    "part_of_midbrain": {
+      "display_name": "Part Of Midbrain",
+      "anatomical_name": "Part Of Midbrain",
+      "path": {
+        "type": "polygon",
+        "vertices": [
+          {
+            "x": 0.25,
+            "y": 0.903
+          },
+          {
+            "x": 0.224,
+            "y": 0.889
+          },
+          {
+            "x": 0.214,
+            "y": 0.861
+          },
+          {
+            "x": 0.314,
+            "y": 0.725
+          },
+          {
+            "x": 0.549,
+            "y": 0.611
+          },
+          {
+            "x": 0.63,
+            "y": 0.62
+          },
+          {
+            "x": 0.648,
+            "y": 0.649
+          },
+          {
+            "x": 0.604,
+            "y": 0.78
+          },
+          {
+            "x": 0.529,
+            "y": 0.878
+          },
+          {
+            "x": 0.401,
+            "y": 0.909
+          },
+          {
+            "x": 0.259,
+            "y": 0.905
+          }
+        ]
+      },
+      "label_position": {
+        "x": 0.42,
+        "y": 0.794
+      },
+      "z_order": 5,
+      "groups": [
+        "midbrain"
+      ]
+    }
+  }
+}
